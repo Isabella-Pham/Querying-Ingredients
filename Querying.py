@@ -1,11 +1,12 @@
 import urllib.request
-import requests
 import json
 import operator
+import nltk
+import math
 
 def get_api(query): #returns a dictionary of all the items in the api, if nothing shows up for query then returns statement saying to record manually
-    query = query.replace(' ', '+')
-    url = 'https://api.nal.usda.gov/ndb/search/?format=json&q=' + query + '&sort=n&offset=0&api_key=adBdNNK4tcs1RKpEOJnb6If4pZ9YH1B75ii9roZS&ds=Standard%20Reference'
+    queryNoSpace = query.replace(' ', '+')
+    url = 'https://api.nal.usda.gov/ndb/search/?format=json&q=' + queryNoSpace + '&sort=n&offset=0&api_key=adBdNNK4tcs1RKpEOJnb6If4pZ9YH1B75ii9roZS&ds=Standard%20Reference'
     with urllib.request.urlopen(url) as url:
         data = json.loads(url.read().decode())
     if list(data.keys())[0] == 'errors':
@@ -25,7 +26,7 @@ def getFrequencies(data): #determines the frequencies of each food group
         for info in food:
             if info == 'group':
                 freqs = incrementFreq(freqs, food[info])
-    return freqs
+    return deleteZero(freqs)
 
 def incrementFreq(freqs, group): #takes in a food group and adds it to dictionary
     for key in freqs:
@@ -45,26 +46,46 @@ def getNDBNO(foodGroup, data): #returns the lowest NDBNO in the most prominent f
                 group = food[info]
             if info == 'ndbno':
                 for key in lowestNDBNO:
-                    if group == key and (int(food[info]) < lowestNDBNO[key] or lowestNDBNO[key] == 0):
-                        lowestNDBNO[key] = int(food[info])
+                    if group == key and (int(food[info]) < int(lowestNDBNO[key]) or int(lowestNDBNO[key]) == 0):
+                        lowestNDBNO[key] = food[info]
     NDBNO = lowestNDBNO[foodGroup]
     return NDBNO
 
-def entropy(freqs): #determines whether or not the entropy is large enough
-    highest = freqs[getHighestFreq(freqs)]
-    for group in freqs:
-        if abs(freqs[group] - highest) < 1 and group != getHighestFreq(freqs): #1 is just currently a placeholder
-            return 'Entropy is too small, must deal with manually'
-    return 'Entropy is large enough, do not have to deal with manually'
+def isEntropyLow(freqs): #calculates the entropy and determines whether or not we have to manually categorize a query
+    total = sum(freqs.values())
+    H = 0
+    for key in freqs:
+        probability = freqs[key]/total
+        H += -probability*(math.log(probability,2))
+    print(H)
+    if H > 2: #threshold temporarly set to 4
+        return "Need to check manually"
+    else:
+        return "Do not need to check manually"
 
-def extractNouns(query): #still in progress
-    query = query.split()
-	#for word in query:
-		#INSERT TAGGING CODE HERE
+def extractNouns(query): #used in the get_api function if the query had no results
+    words = nltk.word_tokenize(query)
+    tagged = nltk.pos_tag(words)
+    nouns = []
+    for word in tagged:
+        for tag in word:
+            if tag == 'NN' or tag == 'NNS' or tag == 'NNP' or tag == 'NNPS':
+                nouns.append(word[0])
+    query = ' '.join(nouns);
     return query
 
+def deleteZero(freqs): #deletes the food categories whose frequencies are 0
+    newFreqs = {}
+    for key in freqs:
+        if freqs[key]!=0:
+            newFreqs[key] = freqs[key]
+    return newFreqs
+
 #Below is code to test the functions written above
-data = get_api('lasagna')
+data = get_api('croissant')
 freqs = getFrequencies(data)
 HighestFreq = getHighestFreq(freqs)
 print(getNDBNO(HighestFreq, data))
+print(freqs)
+print(getHighestFreq(freqs))
+print(isEntropyLow(freqs))
