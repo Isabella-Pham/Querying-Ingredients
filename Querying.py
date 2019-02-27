@@ -15,7 +15,7 @@ def get_api(query): #returns a dictionary of all the items in the api, if nothin
         with urllib.request.urlopen(url) as url:
 	        data = json.loads(url.read().decode())
         if list(data.keys())[0] == 'errors':
-            return 'Must record information for "' + query + '" manually'
+            return 'ERROR'
         else:
             return data['list']['item']
     return data['list']['item']
@@ -57,11 +57,10 @@ def isEntropyLow(freqs): #calculates the entropy and determines whether or not w
     for key in freqs:
         probability = freqs[key]/total
         H += -probability*(math.log(probability,2))
-    print(H)
     if H > 2: #threshold temporarly set to 4
-        return "Need to check manually"
+        return True
     else:
-        return "Do not need to check manually"
+        return False
 
 def extractNouns(query): #used in the get_api function if the query had no results
     words = nltk.word_tokenize(query)
@@ -80,12 +79,3 @@ def deleteZero(freqs): #deletes the food categories whose frequencies are 0
         if freqs[key]!=0:
             newFreqs[key] = freqs[key]
     return newFreqs
-
-#Below is code to test the functions written above
-data = get_api('croissant')
-freqs = getFrequencies(data)
-HighestFreq = getHighestFreq(freqs)
-print(getNDBNO(HighestFreq, data))
-print(freqs)
-print(getHighestFreq(freqs))
-print(isEntropyLow(freqs))
