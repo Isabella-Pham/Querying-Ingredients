@@ -30,7 +30,7 @@ def listNDBNO(list): #returns a dictionary of the food and it's NDBNO number
             NDBNOs[food] = number
             processed += 1
         total += 1
-        time.sleep(1)
+        time.sleep(5)
     print(percentage(processed/total))
     f = open('Output.txt', 'w')
     f.write('Below is a list of foods and their NDBNO numbers')
