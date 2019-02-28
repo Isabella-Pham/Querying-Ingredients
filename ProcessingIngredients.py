@@ -16,8 +16,8 @@ def listNDBNO(list): #returns a dictionary of the food and it's NDBNO number
     processed = 0;
     f = open('Output.txt', 'w')
     m = open('Manual.txt', 'w')
-    f.write('Below is a list of foods and their NDBNO numbers')
-    m.write('Below is a list of foods that must be manually checked')
+    f.write('Below is a list of foods and their NDBNO numbers' + '\n')
+    m.write('Below is a list of foods that must be manually checked:' + '\n')
     for food in list:
         total = total + 1
         data = get_api(food)
