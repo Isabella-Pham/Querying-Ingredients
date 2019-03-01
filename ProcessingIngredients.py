@@ -27,19 +27,22 @@ def listNDBNO(list): #returns a dictionary of the food and it's NDBNO number
     total = 0;
     processed = 0;
     output = open('Output.txt', 'w')
-    notFood = open('NotFood.txt', 'w')
+    noResults = open('noResults.txt', 'w')
     highEntropy = open('HighEntropy.txt', 'w')
     entropies = []
-    output.write('Below is a list of foods and their NDBNO numbers' + '\n')
-    notFood.write('Below is a list of foods that must be manually checked because they did not produce search results' + '\n')
+    output.write('Below is a list of foods and their NDBNO numbers:' + '\n')
+    noResults.write('Below is a list of foods that must be manually checked because they did not produce search results:' + '\n')
     highEntropy.write('Below is a list of foods that must be manually checked due to their high entropy:' + '\n')
+    total = 0
+    processed = 0
     for food in list:
         total = total + 1
         data = get_api(food)
         freqs = getFrequencies(data)
+        print(food)
         if data == 'ERROR' or bool(freqs) == False:
-            notFood.write(food + '\n')
-            notFood.flush()
+            noResults.write(food + '\n')
+            noResults.flush()
         elif getEntropy(freqs) > 2.1: #entropy cutoff is 2.1
             entropies.append(getEntropy(freqs))
             highEntropy.write(food + '\n')
@@ -49,10 +52,10 @@ def listNDBNO(list): #returns a dictionary of the food and it's NDBNO number
             entropies.append(getEntropy(freqs))
             number = getNDBNO(foodGroup, data)
             description = getFoodDescription(number)
-            output.write(food + ': ' + foodGroup + ', ' + description + ', ' + number + '\n')
+            output.write(food + ': ' + foodGroup + '; ' + description + '; ' + number + '\n')
             output.flush()
             processed = processed + 1
-        time.sleep(5)
+        time.sleep(2)
     createHistogram(entropies)
     output.write('Percentage of successful cases:' + percentage(processed/total) + '\n')
     output.close()

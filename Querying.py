@@ -5,13 +5,15 @@ import nltk
 import math
 
 def get_api(query): #returns a dictionary of all the items in the api, if nothing shows up for query then returns statement saying to record manually
-    queryNoSpace = query.replace(' ', '+')
+    queryNoSpace = query.replace('_', '+')
     url = 'https://api.nal.usda.gov/ndb/search/?format=json&q=' + queryNoSpace + '&sort=n&offset=0&api_key=adBdNNK4tcs1RKpEOJnb6If4pZ9YH1B75ii9roZS&ds=Standard%20Reference'
     with urllib.request.urlopen(url) as url:
         data = json.loads(url.read().decode())
     if list(data.keys())[0] == 'errors':
+        query = query.replace('_', ' ')
         query = extractNouns(query)
-        url = 'https://api.nal.usda.gov/ndb/search/?format=json&q=' + query + '&sort=n&offset=0&api_key=adBdNNK4tcs1RKpEOJnb6If4pZ9YH1B75ii9roZS&ds=Standard%20Reference'
+        queryNoSpace = query.replace(' ', '+')
+        url = 'https://api.nal.usda.gov/ndb/search/?format=json&q=' + queryNoSpace + '&sort=n&offset=0&api_key=adBdNNK4tcs1RKpEOJnb6If4pZ9YH1B75ii9roZS&ds=Standard%20Reference'
         with urllib.request.urlopen(url) as url:
 	        data = json.loads(url.read().decode())
         if list(data.keys())[0] == 'errors':
@@ -51,16 +53,13 @@ def getNDBNO(foodGroup, data): #returns the lowest NDBNO in the most prominent f
     NDBNO = lowestNDBNO[foodGroup]
     return NDBNO
 
-def isEntropyLow(freqs): #calculates the entropy and determines whether or not we have to manually categorize a query
+def getEntropy(freqs): #calculates the entropy and determines whether or not we have to manually categorize a query
     total = sum(freqs.values())
     H = 0
     for key in freqs:
         probability = freqs[key]/total
         H += -probability*(math.log(probability,2))
-    if H > 2: #threshold temporarly set to 4
-        return True
-    else:
-        return False
+    return H
 
 def extractNouns(query): #used in the get_api function if the query had no results
     words = nltk.word_tokenize(query)
@@ -79,3 +78,8 @@ def deleteZero(freqs): #deletes the food categories whose frequencies are 0
         if freqs[key]!=0:
             newFreqs[key] = freqs[key]
     return newFreqs
+
+#data = get_api('frying_chicken')
+#freqs = getFrequencies(data)
+#foodGroup = getHighestFreq(freqs)
+#print(getNDBNO(foodGroup, data))
