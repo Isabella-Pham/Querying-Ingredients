@@ -62,4 +62,46 @@ def listNDBNO(list): #returns a dictionary of the food and it's NDBNO number
     notFood.close()
     highEntropy.close()
 
-listNDBNO(getFood())
+def reprocessingHighEntropy():
+    doc = open("HighEntropyReprocessed.txt", "w")
+    doc.write('Below is a list of foods with high entropy and their assigned NDBNO numbers:' + '\n')
+    with open ("HighEntropy.txt", "r") as file:
+        list = file.read().splitlines()
+    for food in list:
+        data = get_api(food)
+        inserted = False
+        for item in data:
+            if 'raw' in item['name'] and (data[0]['group']=='Fruits and Fruit Juices' or data[0]['group']=='Vegetables and Vegetable Products'):
+                number = item['ndbno']
+                foodGroup = item['group']
+                description = item['name']
+                if len(description.split())>5:
+                    continue
+                doc.write(food + ': ' + foodGroup + '; ' + description + '; ' + number + '\n')
+                doc.flush()
+                inserted = True
+                break
+            else:
+                number = item['ndbno']
+                foodGroup = item['group']
+                description = item['name']
+                if len(description.split())>5 or foodGroup == 'Restaurant Foods':
+                    continue
+                doc.write(food + ': ' + foodGroup + '; ' + description + '; ' + number + '\n')
+                doc.flush()
+                inserted = True
+                break
+            if item == 15:
+                break
+        if inserted == False:
+            number = data[3]['ndbno']
+            foodGroup = data[3]['group']
+            description = data[3]['name']
+            doc.write(food + ': ' + foodGroup + '; ' + description + '; ' + number + '\n')
+            doc.flush()
+        time.sleep(2)
+    doc.close()
+
+
+#listNDBNO(getFood())
+#reprocessingHighEntropy()

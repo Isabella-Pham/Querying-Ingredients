@@ -1,15 +1,15 @@
 Below is a list of foods and their NDBNO numbers:
-salt: Vegetables and Vegetable Products; Amaranth leaves, cooked, boiled, drained, without salt; 11004
+salt: 02047
 olive_oil: Fats and Oils; Oil, olive, salad or cooking; 04053
 garlic_cloves: Spices and Herbs; Spices, cloves, ground; 02011
-brown_sugar: Breakfast Cereals; Cereals, QUAKER, Instant Oatmeal, maple and brown sugar, dry; 08130
+brown_sugar: 19334
 black_pepper: Spices and Herbs; Spices, pepper, black; 02030
 vegetable_oil: Fats and Oils; Vegetable oil, palm kernel; 04513
 all_-_purpose_flour: Cereal Grains and Pasta; Wheat flour, white, all-purpose, enriched, bleached; 20081
-cinnamon: Baked Products; Bagels, cinnamon-raisin; 18005
-parsley: Vegetables and Vegetable Products; Coriander (cilantro) leaves, raw; 11165
+cinnamon:
+parsley:
 baking_powder: Baked Products; Leavening agents, baking powder, double-acting, sodium aluminum sulfate; 18369
-pepper: Vegetables and Vegetable Products; Corn with red and green peppers, canned, solids and liquids; 11184
+pepper:
 baking_soda: Baked Products; Leavening agents, baking soda; 18372
 scallions: Vegetables and Vegetable Products; Onions, spring or scallions (includes tops and bulb), raw; 11291
 vanilla_extract: Spices and Herbs; Vanilla extract; 02050
@@ -18,7 +18,7 @@ cheddar_cheese: Dairy and Egg Products; Cheese, cheddar (Includes foods for USDA
 garlic_powder: Spices and Herbs; Spices, garlic powder; 02020
 chicken_broth: Soups, Sauces, and Gravies; Soup, chicken broth, canned, condensed; 06013
 chicken_breasts: Poultry Products; Chicken, broiler, rotisserie, BBQ, breast, meat only; 05000
-basil: Soups, Sauces, and Gravies; Sauce, pesto, BUITONI, pesto with basil, ready-to-serve, refrigerated; 06628
+basil:
 carrots: Vegetables and Vegetable Products; Carrots, raw; 11124
 heavy_cream: Dairy and Egg Products; Cream, fluid, heavy whipping; 01053
 sour_cream: Dairy and Egg Products; Cream, sour, reduced fat, cultured; 01055
@@ -28,9 +28,9 @@ cumin: Spices and Herbs; Spices, cumin seed; 02014
 cilantro: Spices and Herbs; Spices, coriander leaf, dried; 02012
 thyme: Spices and Herbs; Spices, thyme, dried; 02042
 celery: Vegetables and Vegetable Products; Celery, raw; 11143
-powdered_sugar: Beverages; Beverages, chocolate powder, no sugar added; 14063
-green_peppers: Vegetables and Vegetable Products; Corn with red and green peppers, canned, solids and liquids; 11184
-red_peppers: Vegetables and Vegetable Products; Corn with red and green peppers, canned, solids and liquids; 11184
+powdered_sugar:
+green_peppers:
+red_peppers:
 ginger: Vegetables and Vegetable Products; Ginger root, raw; 11216
 soy_sauce: Legumes and Legume Products; Soy sauce made from soy and wheat (shoyu); 16123
 mayonnaise: Fats and Oils; Salad dressing, KRAFT Mayo Light Mayonnaise; 04011
@@ -41,10 +41,10 @@ Worcestershire_sauce: Soups, Sauces, and Gravies; Sauce, worcestershire; 06971
 potatoes: Vegetables and Vegetable Products; Potatoes, flesh and skin, raw; 11352
 chili_powder: Spices and Herbs; Spices, chili powder; 02009
 pecans: Nut and Seed Products; Nuts, pecans; 12142
-diced_tomatoes: Meals, Entrees, and Side Dishes; Spanish rice mix, dry mix, prepared (with canola/vegetable oil blend or diced tomatoes and margarine); 32021
+diced_tomatoes:
 cayenne: Spices and Herbs; Spices, pepper, red or cayenne; 02031
 ground_beef: Beef Products; Beef, grass-fed, ground, raw; 13047
-chocolate_chips: Baked Products; Cookies, chocolate chip, commercially prepared, regular, lower fat; 18158
+chocolate_chips:
 margarine: Fats and Oils; Margarine, regular, hard, soybean (hydrogenated); 04073
 walnuts: Nut and Seed Products; Nuts, walnuts, black, dried; 12154
 nutmeg: Spices and Herbs; Spices, nutmeg, ground; 02025
@@ -62,10 +62,10 @@ mozzarella_cheese: Dairy and Egg Products; Cheese, mozzarella, whole milk; 01026
 jalapenos: Vegetables and Vegetable Products; Peppers, jalapeno, canned, solids and liquids; 11632
 ketchup: Vegetables and Vegetable Products; Catsup; 11935
 mushrooms: Vegetables and Vegetable Products; Mushrooms, shiitake, raw; 11238
-raisins: Baked Products; Bagels, cinnamon-raisin; 18005
+raisins:
 rosemary: Spices and Herbs; Spices, rosemary, dried; 02036
 tomato_paste: Vegetables and Vegetable Products; Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program); 11546
-boiling_water: Breakfast Cereals; Cereals, QUAKER, corn grits, instant, plain, prepared (microwaved or boiling water added), without salt; 08093
+boiling_water:
 shortening: Fats and Oils; Shortening, household, soybean (partially hydrogenated)-cottonseed (partially hydrogenated); 04031
 ground_ginger: Spices and Herbs; Spices, ginger, ground; 02021
 buttermilk: Baked Products; Biscuits, plain or buttermilk, frozen, baked; 18009

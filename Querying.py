@@ -6,7 +6,7 @@ import math
 
 def get_api(query): #returns a dictionary of all the items in the api, if nothing shows up for query then returns statement saying to record manually
     queryNoSpace = query.replace('_', '+')
-    url = 'https://api.nal.usda.gov/ndb/search/?format=json&q=' + queryNoSpace + '&sort=n&offset=0&api_key=adBdNNK4tcs1RKpEOJnb6If4pZ9YH1B75ii9roZS&ds=Standard%20Reference'
+    url = 'https://api.nal.usda.gov/ndb/search/?format=json&q=' + queryNoSpace + '&sort=r&offset=0&api_key=adBdNNK4tcs1RKpEOJnb6If4pZ9YH1B75ii9roZS&ds=Standard%20Reference'
     with urllib.request.urlopen(url) as url:
         data = json.loads(url.read().decode())
     if list(data.keys())[0] == 'errors':

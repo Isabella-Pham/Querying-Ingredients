@@ -8,6 +8,7 @@ plum_tomatoes
 orange_zest
 celery_ribs
 breadcrumbs
+Quark
 almond_extract
 ground_coriander
 rice_vinegar
@@ -111,7 +112,6 @@ imitation_crabmeat
 mushroom_pieces
 dark_molasses
 port_wine
-skewers
 rigatoni_pasta
 herbes_de_provence
 orange_extract
@@ -347,7 +347,6 @@ sausage_meat
 boursin_cheese
 seitan
 pasilla_chiles
-paraffin_wax
 instant_polenta
 anise_extract
 vanilla_bean_paste
@@ -356,7 +355,6 @@ seafood
 ground_hazelnuts
 black_cardamom_pods
 tagliatelle_pasta_noodles
-paper
 nicoise_olives
 haddock_fillets
 channa_dal
@@ -368,8 +366,6 @@ gingersnap_crumbs
 spinach_fettuccine
 ear_of_corn
 cherry_brandy
-toothpicks
-cheesecloth
 mango_powder
 chevre_cheese
 tiger_shrimp
@@ -460,7 +456,6 @@ dried_lavender
 mild_paprika
 linguica_sausage
 frozen_French_-_cut_green_beans
-Quark
 tart_green_apples
 shrimp_stock
 rotelle_pasta
@@ -578,7 +573,6 @@ giardiniera
 cracked_farro
 bean_curd
 mushroom_broth
-lollipop_sticks
 ramps
 pepper_rings
 lavash_bread
@@ -628,10 +622,8 @@ ganache
 casings
 string
 shimeji_mushrooms
-charcoal
 almond_powder
 Kraft_Shredded_Monterey_Jack_Cheese
-ribbon
 stock_cubes
 pastry_cream
 mizuna
