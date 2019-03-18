@@ -1,4 +1,5 @@
 from Querying import * #import file with functions to get NDBNO
+from FoodOn import *
 import time
 import matplotlib.pyplot as plot
 import numpy as np
@@ -102,6 +103,31 @@ def reprocessingHighEntropy():
         time.sleep(2)
     doc.close()
 
+def reprocessingNoResults():
+    doc = open("NoResultsReprocessed.txt", "w")
+    none = open("NoResultsStill", "w")
+    doc.write('Below is a list of foods that had no results and their assigned NDBNO numbers:' + '\n')
+    none.write('Below is a list of foods that still do not have results after referncing FoodOn' + '\n')
+    with open ("noResults.txt", "r") as file:
+        list = file.read().splitlines()
+    list = list[:40]
+    for food in list:
+        searchTerm = getParent(food)
+        data = get_api(food)
+        freqs = getFrequencies(data)
+        print(food)
+        if data == 'ERROR' or bool(freqs) == False:
+            none.write(food + '\n')
+            none.flush()
+        else:
+            foodGroup = getHighestFreq(freqs)
+            entropies.append(getEntropy(freqs))
+            number = getNDBNO(foodGroup, data)
+            description = getFoodDescription(number)
+            doc.write(food + ': ' + foodGroup + '; ' + description + '; ' + number + '\n')
+            doc.flush()
+        time.sleep(2)
+    doc.close()
+    none.close()
 
-#listNDBNO(getFood())
-#reprocessingHighEntropy()
+reprocessingNoResults()
