@@ -1,0 +1,1692 @@
+Below is a list of foods and their NDBNO numbers:
+salt: 02047
+olive_oil: Fats and Oils; Oil, olive, salad or cooking; 04053
+garlic_cloves: Spices and Herbs; Spices, cloves, ground; 02011
+brown_sugar: 19334
+black_pepper: Spices and Herbs; Spices, pepper, black; 02030
+vegetable_oil: Fats and Oils; Vegetable oil, palm kernel; 04513
+all_-_purpose_flour: Cereal Grains and Pasta; Wheat flour, white, all-purpose, enriched, bleached; 20081
+cinnamon:
+parsley:
+baking_powder: Baked Products; Leavening agents, baking powder, double-acting, sodium aluminum sulfate; 18369
+pepper:
+baking_soda: Baked Products; Leavening agents, baking soda; 18372
+scallions: Vegetables and Vegetable Products; Onions, spring or scallions (includes tops and bulb), raw; 11291
+vanilla_extract: Spices and Herbs; Vanilla extract; 02050
+lemon_juice: Fruits and Fruit Juices; Lemon juice, raw; 09152
+cheddar_cheese: Dairy and Egg Products; Cheese, cheddar (Includes foods for USDA's Food Distribution Program); 01009
+garlic_powder: Spices and Herbs; Spices, garlic powder; 02020
+chicken_broth: Soups, Sauces, and Gravies; Soup, chicken broth, canned, condensed; 06013
+chicken_breasts: Poultry Products; Chicken, broiler, rotisserie, BBQ, breast, meat only; 05000
+basil:
+carrots: Vegetables and Vegetable Products; Carrots, raw; 11124
+heavy_cream: Dairy and Egg Products; Cream, fluid, heavy whipping; 01053
+sour_cream: Dairy and Egg Products; Cream, sour, reduced fat, cultured; 01055
+cream_cheese: Dairy and Egg Products; Cheese, cottage, creamed, large or small curd; 01012
+oregano: Spices and Herbs; Spices, oregano, dried; 02027
+cumin: Spices and Herbs; Spices, cumin seed; 02014
+cilantro: Spices and Herbs; Spices, coriander leaf, dried; 02012
+thyme: Spices and Herbs; Spices, thyme, dried; 02042
+celery: Vegetables and Vegetable Products; Celery, raw; 11143
+powdered_sugar:
+green_peppers:
+red_peppers:
+ginger: Vegetables and Vegetable Products; Ginger root, raw; 11216
+soy_sauce: Legumes and Legume Products; Soy sauce made from soy and wheat (shoyu); 16123
+mayonnaise: Fats and Oils; Salad dressing, KRAFT Mayo Light Mayonnaise; 04011
+oil: Fats and Oils; Oil, soybean, salad or cooking, (partially hydrogenated); 04034
+cornstarch: Cereal Grains and Pasta; Cornstarch; 20027
+paprika: Spices and Herbs; Spices, paprika; 02028
+Worcestershire_sauce: Soups, Sauces, and Gravies; Sauce, worcestershire; 06971
+potatoes: Vegetables and Vegetable Products; Potatoes, flesh and skin, raw; 11352
+chili_powder: Spices and Herbs; Spices, chili powder; 02009
+pecans: Nut and Seed Products; Nuts, pecans; 12142
+diced_tomatoes:
+cayenne: Spices and Herbs; Spices, pepper, red or cayenne; 02031
+ground_beef: Beef Products; Beef, grass-fed, ground, raw; 13047
+chocolate_chips:
+margarine: Fats and Oils; Margarine, regular, hard, soybean (hydrogenated); 04073
+walnuts: Nut and Seed Products; Nuts, walnuts, black, dried; 12154
+nutmeg: Spices and Herbs; Spices, nutmeg, ground; 02025
+hot_sauce: Soups, Sauces, and Gravies; Sauce, ready-to-serve, pepper or hot; 06168
+bay_leaf: Spices and Herbs; Spices, bay leaf; 02004
+white_wine: Beverages; Alcoholic beverage, wine, table, white; 14106
+oats: Breakfast Cereals; Cereals ready-to-eat, QUAKER, QUAKER OAT LIFE, plain; 08049
+lime_juice: Fruits and Fruit Juices; Lime juice, raw; 09160
+zucchini: Vegetables and Vegetable Products; Squash, summer, zucchini, includes skin, raw; 11477
+orange_juice: Fruits and Fruit Juices; Orange juice, raw (Includes foods for USDA's Food Distribution Program); 09206
+fresh_lemon_juice: Fruits and Fruit Juices; Lemon juice, raw; 09152
+egg_yolks: Dairy and Egg Products; Egg, yolk, raw, fresh; 01125
+fresh_mushrooms: Vegetables and Vegetable Products; Mushrooms, shiitake, raw; 11238
+mozzarella_cheese: Dairy and Egg Products; Cheese, mozzarella, whole milk; 01026
+jalapenos: Vegetables and Vegetable Products; Peppers, jalapeno, canned, solids and liquids; 11632
+ketchup: Vegetables and Vegetable Products; Catsup; 11935
+mushrooms: Vegetables and Vegetable Products; Mushrooms, shiitake, raw; 11238
+raisins:
+rosemary: Spices and Herbs; Spices, rosemary, dried; 02036
+tomato_paste: Vegetables and Vegetable Products; Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program); 11546
+boiling_water:
+shortening: Fats and Oils; Shortening, household, soybean (partially hydrogenated)-cottonseed (partially hydrogenated); 04031
+ground_ginger: Spices and Herbs; Spices, ginger, ground; 02021
+buttermilk: Baked Products; Biscuits, plain or buttermilk, frozen, baked; 18009
+egg_whites: Dairy and Egg Products; Egg, white, raw, fresh; 01124
+dry_mustard: Vegetables and Vegetable Products; Mustard greens, raw; 11270
+cider_vinegar: Spices and Herbs; Vinegar, cider; 02048
+beef_broth: Soups, Sauces, and Gravies; Soup, beef broth or bouillon canned, ready-to-serve; 06008
+wine_vinegar: Spices and Herbs; Vinegar, red wine; 02068
+green_chilies: Vegetables and Vegetable Products; Peppers, hot chili, green, canned, pods, excluding seeds, solids and liquids; 11329
+vinegar: Spices and Herbs; Vinegar, cider; 02048
+dill: Spices and Herbs; Spices, dill seed; 02016
+balsamic_vinegar: Spices and Herbs; Vinegar, balsamic; 02069
+whole_wheat_flour: Cereal Grains and Pasta; Buckwheat flour, whole-groat; 20011
+onion_powder: Spices and Herbs; Spices, onion powder; 02026
+shallots: Vegetables and Vegetable Products; Shallots, freeze-dried; 11640
+pimientos: Sausages and Luncheon Meats; Pickle and pimiento loaf, pork; 07058
+mustard: Vegetables and Vegetable Products; Mustard greens, raw; 11270
+crushed_pineapple: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids; 09096
+fresh_spinach: Cereal Grains and Pasta; Pasta, fresh-refrigerated, spinach, as purchased; 20095
+curry: Spices and Herbs; Spices, curry powder; 02015
+wine: Beverages; Alcoholic beverage, wine, dessert, sweet; 14057
+half_-_and_-_half: Beef Products; Beef, brisket, flat half, separable lean and fat, trimmed to 1/8" fat, select, cooked, braised; 13055
+black_olives: Restaurant Foods; OLIVE GARDEN, lasagna classico; 36042
+ground_nutmeg: Spices and Herbs; Spices, nutmeg, ground; 02025
+lettuce: Fast Foods; Fast foods, taco with beef, cheese and lettuce, hard shell; 21082
+chives: Vegetables and Vegetable Products; Chives, raw; 11156
+sesame_oil: Fats and Oils; Oil, sesame, salad or cooking; 04058
+skim_milk: Dairy and Egg Products; Cheese, mozzarella, part skim milk; 01028
+lean_ground_beef: Beef Products; Beef, carcass, separable lean and fat, choice, raw; 13001
+vegetable_broth: Soups, Sauces, and Gravies; Soup, vegetable with beef broth, canned, condensed; 06072
+mint: Spices and Herbs; Peppermint, fresh; 02064
+sage: Baked Products; George Weston Bakeries, Brownberry Sage and Onion Stuffing Mix, dry; 18603
+yogurt: Dairy and Egg Products; Yogurt, Greek, 2% fat, apricot, CHOBANI; 01064
+cooked_chicken: Poultry Products; Chicken, broilers or fryers, meat and skin and giblets and neck, cooked, fried, batter; 05002
+black_beans: Legumes and Legume Products; Beans, black, mature seeds, raw; 16014
+semisweet_chocolate: Sweets; Candies, semisweet chocolate; 19080
+italian_seasoning: Poultry Products; Turkey, diced, light and dark meat, seasoned; 05285
+shrimp: Finfish and Shellfish Products; Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture); 15149
+evaporated_milk: Dairy and Egg Products; Milk, canned, evaporated, with added vitamin D and without added vitamin A; 01096
+white_vinegar: Spices and Herbs; Vinegar, cider; 02048
+ground_cloves: Spices and Herbs; Spices, cloves, ground; 02011
+feta: Dairy and Egg Products; Cheese, feta; 01019
+maple_syrup: Sweets; Syrups, maple; 19353
+white_pepper: Spices and Herbs; Spices, pepper, white; 02032
+nuts: Nut and Seed Products; Nuts, acorns, raw; 12058
+kidney_beans: Legumes and Legume Products; Beans, kidney, all types, mature seeds, raw; 16027
+salsa: Soups, Sauces, and Gravies; Sauce, salsa, ready-to-serve; 06164
+cheese: Dairy and Egg Products; Cheese, blue; 01004
+dry_yeast: Baked Products; Leavening agents, yeast, baker's, active dry; 18375
+yams: Vegetables and Vegetable Products; Mountain yam, hawaii, raw; 11258
+monterey_jack_cheese: Dairy and Egg Products; Cheese, monterey; 01025
+condensed_milk: Dairy and Egg Products; Milk, canned, condensed, sweetened; 01095
+unsweetened_cocoa: Sweets; Cocoa, dry powder, unsweetened; 19165
+unsalted_chicken_stock: Soups, Sauces, and Gravies; Soup, stock, chicken, home-prepared; 06172
+chicken: Poultry Products; Chicken, broiler, rotisserie, BBQ, breast, meat only; 05000
+seasoning_salt: Vegetables and Vegetable Products; Amaranth leaves, cooked, boiled, drained, without salt; 11004
+pie_crusts: Baked Products; Pie crust, standard-type, dry mix; 18332
+mushroom_soup: Soups, Sauces, and Gravies; Soup, mushroom barley, canned, condensed; 06042
+flour_tortillas: Baked Products; Tortillas, ready-to-bake or -fry, flour, refrigerated; 18364
+frozen_peas: Vegetables and Vegetable Products; Peas, edible-podded, frozen, unprepared; 11302
+molasses: Baked Products; Cookies, molasses; 18177
+cream_of_chicken_soup: Soups, Sauces, and Gravies; Soup, cream of chicken, canned, condensed; 06016
+swiss_cheese: Dairy and Egg Products; Cheese, swiss; 01040
+spaghetti_sauce: Restaurant Foods; Restaurant, Italian, spaghetti with pomodoro sauce (no meat); 36046
+cabbage: Vegetables and Vegetable Products; Cabbage, raw; 11109
+frozen_spinach: Vegetables and Vegetable Products; Spinach, frozen, chopped or leaf, unprepared (Includes foods for USDA's Food Distribution Program); 11463
+sesame: Nut and Seed Products; Seeds, sesame seeds, whole, dried; 12023
+light_sour_cream: Dairy and Egg Products; Cream, fluid, light (coffee cream or table cream); 01050
+sausage: Sausages and Luncheon Meats; Sausage, Berliner, pork, beef; 07004
+cucumbers: Vegetables and Vegetable Products; Cucumber, with peel, raw; 11205
+chickpeas: Legumes and Legume Products; Chickpeas (garbanzo beans, bengal gram), mature seeds, raw; 16056
+asparagus: Vegetables and Vegetable Products; Asparagus, raw; 11011
+self_raising_flour: Cereal Grains and Pasta; Cornmeal, yellow, self-rising, bolted, with wheat flour added, enriched; 20024
+coconut_milk: Sweets; Puddings, coconut cream, dry mix, instant, prepared with 2% milk; 19191
+bread: Baked Products; Bread, banana, prepared from recipe, made with margarine; 18019
+low_-_fat_milk: Baked Products; Bread, cornbread, prepared from recipe, made with low fat (2%) milk; 18024
+cloves: Spices and Herbs; Spices, cloves, ground; 02011
+red_potatoes: Vegetables and Vegetable Products; Potatoes, red, flesh and skin, raw; 11355
+turmeric: Spices and Herbs; Spices, turmeric, ground; 02043
+rum: Beverages; Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof; 14037
+cooked_rice: Cereal Grains and Pasta; Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program); 20037
+allspice: Spices and Herbs; Spices, allspice, ground; 02001
+hardboiled_egg: Dairy and Egg Products; Egg, whole, cooked, hard-boiled; 01129
+green_beans: Vegetables and Vegetable Products; Beans, snap, green, raw; 11052
+eggplants: Vegetables and Vegetable Products; Eggplant, raw; 11209
+tarragon: Spices and Herbs; Spices, tarragon, dried; 02041
+ground_turkey: Poultry Products; Turkey, Ground, raw; 05305
+pine_nuts: Nut and Seed Products; Nuts, pine nuts, dried; 12147
+Italian_sausage: Sausages and Luncheon Meats; Sausage, Italian, pork, mild, raw; 07036
+capers: Spices and Herbs; Capers, canned; 02054
+plain_flour: Snacks; Snacks, pretzels, hard, plain, made with unenriched flour, salted; 19812
+ricotta_cheese: Dairy and Egg Products; Cheese, ricotta, whole milk; 01036
+ham: Pork Products; Pork, fresh, leg (ham), whole, separable lean and fat, raw; 10008
+white_flour: Cereal Grains and Pasta; Corn flour, masa, enriched, white; 20017
+peppercorns: Fats and Oils; Salad dressing, peppercorn dressing, commercial, regular; 42137
+cornmeal: Cereal Grains and Pasta; Cornmeal, whole-grain, yellow; 20020
+taco_seasoning: Spices and Herbs; Seasoning mix, dry, taco, original; 02075
+broccoli: Vegetables and Vegetable Products; Broccoli, raw; 11090
+barbecue_sauce: Soups, Sauces, and Gravies; Sauce, barbecue; 06150
+peanut_oil: Legumes and Legume Products; Peanuts, all types, oil-roasted, with salt; 16089
+yellow_pepper: Vegetables and Vegetable Products; Peppers, sweet, yellow, raw; 11951
+chicken_bouillon: Soups, Sauces, and Gravies; Soup, chicken broth or bouillon, dry; 06080
+light_corn_syrup: Fruits and Fruit Juices; Apricots, canned, extra light syrup pack, with skin, solids and liquids (Includes foods for USDA's Food Distribution Program); 09025
+spinach: Vegetables and Vegetable Products; Mustard spinach, (tendergreen), raw; 11274
+long_grain_rice: Cereal Grains and Pasta; Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program); 20036
+instant_coffee: Beverages; Beverages, coffee, instant, regular, half the caffeine; 14203
+cream_of_tartar: Baked Products; Leavening agents, cream of tartar; 18373
+blue_cheese: Fats and Oils; Salad dressing, blue or roquefort cheese dressing, commercial, regular; 04539
+onion_flakes: Vegetables and Vegetable Products; Onions, dehydrated flakes; 11284
+pineapple_juice: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, juice pack, solids and liquids; 09097
+fish_sauce: Fast Foods; Fast foods, fish sandwich, with tartar sauce; 21105
+avocado: Fruits and Fruit Juices; Avocados, raw, all commercial varieties; 09037
+frozen_corn: Vegetables and Vegetable Products; Corn, sweet, yellow, frozen, kernels cut off cob, unprepared (Includes foods for USDA's Food Distribution Program); 11178
+cottage_cheese: Dairy and Egg Products; Cheese, cottage, creamed, large or small curd; 01012
+applesauce: Baby Foods; Babyfood, fruit, applesauce, strained; 03116
+cumin_seeds: Spices and Herbs; Spices, cumin seed; 02014
+ground_allspice: Spices and Herbs; Spices, allspice, ground; 02001
+leeks: Vegetables and Vegetable Products; Leeks, (bulb and lower leaf-portion), raw; 11246
+beer: Beverages; Alcoholic beverage, beer, regular, all; 14003
+bread_flour: Baked Products; Bread, gluten-free, white, made with potato extract, rice starch, and rice flour; 28336
+low_sodium_soy_sauce: Legumes and Legume Products; Soy sauce made from soy and wheat (shoyu), low sodium; 16424
+celery_seeds: Spices and Herbs; Spices, celery seed; 02007
+white_bread: Fast Foods; Fast foods, submarine sandwich, cold cut on white bread with lettuce and tomato; 21124
+yeast: Baked Products; Doughnuts, yeast-leavened, with creme filling; 18254
+spaghetti: Cereal Grains and Pasta; Pasta, dry, enriched; 20120
+instant_vanilla_pudding: Sweets; Puddings, banana, dry mix, instant, prepared with 2% milk; 19121
+pork_tenderloin: Pork Products; Pork, fresh, loin, tenderloin, separable lean only, raw; 10060
+graham_cracker_crumbs: Baked Products; Cookies, graham crackers, plain or honey (includes cinnamon); 18173
+ground_pork: Pork Products; Pork, fresh, ground, raw; 10219
+corn_tortillas: Baked Products; Tortillas, ready-to-bake or -fry, corn; 18363
+unsweetened_chocolate: Sweets; Baking chocolate, unsweetened, liquid; 19077
+corn_syrup: Sweets; Syrups, corn, dark; 19349
+chocolate: Sweets; Candies, TOBLERONE, milk chocolate with honey and almond nougat; 19001
+cake_flour: Cereal Grains and Pasta; Wheat flour, white, cake, enriched; 20084
+pumpkin: Vegetables and Vegetable Products; Pumpkin flowers, raw; 11416
+elbow_macaroni: Cereal Grains and Pasta; Pasta, dry, enriched; 20120
+cauliflower: Vegetables and Vegetable Products; Cauliflower, raw; 11135
+dill_pickles: Vegetables and Vegetable Products; Pickles, cucumber, dill or kosher dill; 11937
+vodka: Beverages; Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof; 14037
+Velveeta_cheese: Dairy and Egg Products; KRAFT VELVEETA Pasteurized Process Cheese Spread; 01191
+dried_tomatoes: Vegetables and Vegetable Products; Tomatoes, sun-dried; 11955
+penne: Cereal Grains and Pasta; Pasta, dry, enriched; 20120
+light_mayonnaise: Fats and Oils; Salad dressing, KRAFT Mayo Light Mayonnaise; 04011
+peaches: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids; 09096
+mustard_seeds: Spices and Herbs; Spices, mustard seed, ground; 02024
+roasted_peppers: Vegetables and Vegetable Products; Corn with red and green peppers, canned, solids and liquids; 11184
+white_rice: Cereal Grains and Pasta; Rice, white, long-grain, regular, raw, enriched; 20044
+pasta: Cereal Grains and Pasta; Pasta, gluten-free, corn, dry; 20091
+red_chilies: Vegetables and Vegetable Products; Tomatoes, red, ripe, canned, with green chilies; 11537
+apple_juice: Baby Foods; Babyfood, juice, apple; 03166
+romano_cheese: Dairy and Egg Products; Cheese, romano; 01038
+onion_soup_mix: Soups, Sauces, and Gravies; Soup, onion, canned, condensed; 06045
+egg_substitute: Dairy and Egg Products; Egg substitute, powder; 01144
+dried_apricots: Fruits and Fruit Juices; Apricots, dried, sulfured, uncooked; 09032
+Italian_dressing: Fats and Oils; Salad dressing, italian dressing, commercial, reduced fat; 04021
+light_cream_cheese: Dairy and Egg Products; Cheese, cottage, creamed, large or small curd; 01012
+whole_cloves: Spices and Herbs; Spices, cloves, ground; 02011
+vanilla_ice_cream: Sweets; Ice creams, vanilla, light; 19088
+flaked_coconut: Nut and Seed Products; Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged; 12109
+toasted_sesame_oil: Nut and Seed Products; Seeds, sesame seeds, whole, roasted and toasted; 12024
+dates: Breakfast Cereals; Cereals, QUAKER, Instant Oatmeal, raisins, dates and walnuts, dry; 08228
+minced_garlic_cloves: Spices and Herbs; Spices, cloves, ground; 02011
+golden_raisins: Fruits and Fruit Juices; Raisins, golden, seedless; 09297
+pork_chops: Pork Products; Pork, fresh, loin, blade (chops or roasts), bone-in, separable lean and fat, raw; 10028
+nonfat_yogurt: Dairy and Egg Products; Yogurt, vanilla or lemon flavor, nonfat milk, sweetened with low-calorie sweetener; 01184
+unbleached_all_-_purpose_flour: Cereal Grains and Pasta; Wheat flour, white, all-purpose, enriched, unbleached; 20581
+grapes: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids; 09096
+kernel_corn: Vegetables and Vegetable Products; Corn, sweet, yellow, canned, whole kernel, drained solids; 11172
+butternut_squash: Vegetables and Vegetable Products; Squash, winter, butternut, raw; 11485
+russet_potatoes: Vegetables and Vegetable Products; Potatoes, russet, flesh and skin, raw (Includes foods for USDA's Food Distribution Program); 11353
+baby_carrots: Vegetables and Vegetable Products; Carrots, baby, raw; 11960
+pumpkin_puree: Vegetables and Vegetable Products; Pumpkin flowers, raw; 11416
+pumpkin_spice: Spices and Herbs; Spices, pumpkin pie spice; 02035
+puff_pastry: Baked Products; Puff pastry, frozen, ready-to-bake, baked; 18211
+stewing_beef: Beef Products; Beef, chuck for stew, separable lean and fat, all grades, cooked, braised; 23090
+cashews: Nut and Seed Products; Nuts, cashew nuts, dry roasted, without salt added; 12085
+tomato_juice: Vegetables and Vegetable Products; Tomatoes, red, ripe, canned, packed in tomato juice; 11531
+pinto_beans: Legumes and Legume Products; Beans, pinto, mature seeds, raw (Includes foods for USDA's Food Distribution Program); 16042
+new_potatoes: Vegetables and Vegetable Products; Potatoes, flesh and skin, raw; 11352
+masala: Soups, Sauces, and Gravies; SMART SOUP, Indian Bean Masala; 06622
+yellow_cake_mix: Baked Products; Cake, angelfood, dry mix, prepared; 18088
+snow_peas: Vegetables and Vegetable Products; Peas, edible-podded, raw; 11300
+corn_kernels: Vegetables and Vegetable Products; Corn, sweet, yellow, canned, whole kernel, drained solids; 11172
+creamed_corn: Vegetables and Vegetable Products; Corn, sweet, yellow, canned, cream style, regular pack; 11174
+pesto_sauce: Soups, Sauces, and Gravies; Sauce, pesto, ready-to-serve, refrigerated; 06626
+hoisin_sauce: Soups, Sauces, and Gravies; Sauce, hoisin, ready-to-serve; 06175
+beef: Beef Products; Beef, carcass, separable lean and fat, choice, raw; 13001
+yellow_cornmeal: Cereal Grains and Pasta; Cornmeal, whole-grain, yellow; 20020
+unsweetened_applesauce: Fruits and Fruit Juices; Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program); 09019
+cooked_ham: Pork Products; Pork, fresh, leg (ham), whole, separable lean and fat, cooked, roasted; 10009
+saffron: Spices and Herbs; Spices, saffron; 02037
+tomato_puree: Vegetables and Vegetable Products; Tomato products, canned, puree, without salt added; 11547
+poppy_seeds: Spices and Herbs; Spices, poppy seed; 02033
+celery_salt: Vegetables and Vegetable Products; Celery, cooked, boiled, drained, without salt; 11144
+mixed_vegetables: Vegetables and Vegetable Products; Vegetables, mixed, canned, solids and liquids; 11579
+large_shrimp: Finfish and Shellfish Products; Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture); 15149
+tortilla_chips: Snacks; Snacks, tortilla chips, plain, white corn, salted; 19056
+caraway_seeds: Spices and Herbs; Spices, caraway seed; 02005
+spring_onions: Vegetables and Vegetable Products; Onions, spring or scallions (includes tops and bulb), raw; 11291
+gruyere: Dairy and Egg Products; Cheese, gruyere; 01023
+fennel_seeds: Spices and Herbs; Spices, fennel seed; 02018
+cider: Spices and Herbs; Vinegar, cider; 02048
+sunflower_seeds: Nut and Seed Products; Seeds, sunflower seed kernels, dried; 12036
+poultry_seasoning: Spices and Herbs; Spices, poultry seasoning; 02034
+dark_chocolate: Sweets; Candies, SPECIAL DARK Chocolate Bar; 19164
+baking_potatoes: Vegetables and Vegetable Products; Potatoes, Russet, flesh and skin, baked; 11356
+peas: Vegetables and Vegetable Products; Peas, edible-podded, raw; 11300
+firm_tofu: Legumes and Legume Products; Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari); 16126
+unflavored_gelatin: Sweets; Gelatin desserts, dry mix; 19172
+mangoes: Fruits and Fruit Juices; Mangos, raw; 09176
+light_cream: Sweets; Ice creams, vanilla, light; 19088
+frozen_broccoli: Vegetables and Vegetable Products; Broccoli, frozen, chopped, unprepared; 11092
+chicken_thighs: Poultry Products; Chicken, broilers or fryers, thigh, meat and skin, raw; 05091
+pineapple: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids; 09096
+apricot_preserves: Sweets; Jams and preserves, apricot; 19719
+pepperoni: Fast Foods; School Lunch, pizza, BIG DADDY'S LS 16" 51% Whole Grain Rolled Edge Turkey Pepperoni Pizza, frozen; 21146
+diced_green_chilies: Vegetables and Vegetable Products; Peppers, hot chili, green, canned, pods, excluding seeds, solids and liquids; 11329
+egg_noodles: Cereal Grains and Pasta; Noodles, egg, dry, enriched; 20109
+lemon_pepper: Sausages and Luncheon Meats; Turkey, breast, smoked, lemon pepper flavor, 97% fat-free; 07943
+green_olives: Fruits and Fruit Juices; Olives, pickled, canned or bottled, green; 09195
+navy_beans: Legumes and Legume Products; Beans, navy, mature seeds, raw; 16037
+light_soy_sauce: Legumes and Legume Products; Soy sauce made from soy and wheat (shoyu); 16123
+chicken_tenders: Restaurant Foods; APPLEBEE'S, chicken tenders, from kids' menu; 36005
+ground_flax_seeds: Spices and Herbs; Spices, mustard seed, ground; 02024
+brewed_coffee: Beverages; Beverages, coffee, brewed, breakfast blend; 14180
+provolone_cheese: Dairy and Egg Products; Cheese, provolone; 01035
+dried_yeast: Baked Products; Leavening agents, yeast, baker's, active dry; 18375
+brown_rice: Snacks; Snacks, rice cracker brown rice, plain; 19051
+hamburger: Beef Products; Beef, grass-fed, ground, raw; 13047
+prepared_horseradish: Spices and Herbs; Horseradish, prepared; 02055
+low_-_fat_yogurt: Dairy and Egg Products; Yogurt, plain, low fat; 01117
+oyster_sauce: Soups, Sauces, and Gravies; Sauce, oyster, ready-to-serve; 06176
+tequila: Beverages; Alcoholic beverage, tequila sunrise, canned; 14019
+corn_flakes: Breakfast Cereals; Cereals ready-to-eat, RALSTON Corn Flakes; 08506
+ground_turmeric: Spices and Herbs; Spices, turmeric, ground; 02043
+sweetened_coconut: Nut and Seed Products; Nuts, coconut meat, dried (desiccated), not sweetened; 12108
+ranch_dressing: Fats and Oils; Salad dressing, ranch dressing, fat-free; 04638
+arugula: Vegetables and Vegetable Products; Arugula, raw; 11959
+American_cheese: Dairy and Egg Products; Cheese, pasteurized process, American, fortified with vitamin D; 01042
+cranberries: Beverages; Beverages, OCEAN SPRAY, Cran-Energy, Cranberry Energy Juice Drink; 14038
+chuck_roast: Beef Products; Beef, chuck, under blade pot roast, boneless, separable lean only, trimmed to 0" fat, all grades, cooked, braised; 13285
+tuna: Finfish and Shellfish Products; Fish, tuna, fresh, bluefin, raw; 15117
+wheat_germ: Breakfast Cereals; Cereals ready-to-eat, wheat germ, toasted, plain; 08084
+boneless_chicken_thighs: Poultry Products; Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw; 05062
+chicken_wings: Poultry Products; Chicken, broilers or fryers, wing, meat and skin, raw; 05100
+pears: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids; 09096
+white_chocolate_chips: Baked Products; Cookies, chocolate chip, commercially prepared, regular, lower fat; 18158
+tomato_soup: Soups, Sauces, and Gravies; Soup, tomato beef with noodle, canned, condensed; 06061
+white_chocolate: Sweets; Candies, white chocolate; 19087
+soymilk: Legumes and Legume Products; Soymilk, original and vanilla, unfortified; 16120
+shiitake_mushrooms: Vegetables and Vegetable Products; Mushrooms, shiitake, raw; 11238
+beets: Vegetables and Vegetable Products; Beets, raw; 11080
+Greek_yogurt: Dairy and Egg Products; Yogurt, Greek, 2% fat, apricot, CHOBANI; 01064
+portabella_mushrooms: Vegetables and Vegetable Products; Mushrooms, portabella, grilled; 11243
+coriander_seeds: Spices and Herbs; Spices, coriander seed; 02013
+mandarin_oranges: Fruits and Fruit Juices; Tangerines, (mandarin oranges), raw; 09218
+powdered_milk: Beverages; Beverages, chocolate malt, powder, prepared with fat free milk; 14083
+salt_and_pepper: Vegetables and Vegetable Products; Peppers, sweet, green, cooked, boiled, drained, without salt; 11334
+maraschino_cherries: Fruits and Fruit Juices; Maraschino cherries, canned, drained; 09328
+Rice_Krispies: Snacks; Snacks, KELLOGG, KELLOGG'S RICE KRISPIES TREATS Squares; 19438
+orange_juice_concentrate: Fruits and Fruit Juices; Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid; 09017
+rhubarb: Fruits and Fruit Juices; Rhubarb, raw; 09307
+chicken_pieces: Fast Foods; Fast foods, chicken, breaded and fried, boneless pieces, plain; 21229
+canned_pumpkin: Vegetables and Vegetable Products; Pumpkin, canned, without salt; 11424
+hamburger_buns: Fast Foods; Fast foods, hamburger; single, regular patty; double decker bun with condiments and special sauce; 21393
+lowfat_mozzarella_cheese: Dairy and Egg Products; Cheese, cottage, lowfat, 2% milkfat; 01015
+ice: Sweets; Ice creams, vanilla, light; 19088
+bean_sprouts: Vegetables and Vegetable Products; Beans, kidney, mature seeds, sprouted, raw; 11029
+cream_of_celery_soup: Soups, Sauces, and Gravies; Soup, cream of celery, canned, condensed; 06010
+sauerkraut: Vegetables and Vegetable Products; Sauerkraut, canned, solids and liquids; 11439
+mashed_potatoes: Vegetables and Vegetable Products; Potatoes, mashed, home-prepared, whole milk and margarine added; 11371
+cranberry_sauce: Fruits and Fruit Juices; Cranberry sauce, canned, sweetened; 09081
+ripe_olives: Fruits and Fruit Juices; Olives, ripe, canned (small-extra large); 09193
+refried_beans: Legumes and Legume Products; Refried beans, canned, traditional style; 16103
+olives: Restaurant Foods; OLIVE GARDEN, lasagna classico; 36042
+grainy_mustard: Vegetables and Vegetable Products; Mustard greens, raw; 11270
+stock: Soups, Sauces, and Gravies; Soup, mushroom with beef stock, canned, condensed; 06044
+green_cabbage: Vegetables and Vegetable Products; Cabbage, raw; 11109
+fresh_cranberries: Beverages; Beverages, OCEAN SPRAY, Cran-Energy, Cranberry Energy Juice Drink; 14038
+couscous: Cereal Grains and Pasta; Couscous, dry; 20028
+English_cucumber: Vegetables and Vegetable Products; Cucumber, with peel, raw; 11205
+orange_marmalade: Sweets; Marmalade, orange; 19303
+marjoram: Spices and Herbs; Spices, marjoram, dried; 02023
+tomatoes_with_juice: Vegetables and Vegetable Products; Tomatoes, red, ripe, canned, packed in tomato juice; 11531
+graham_cracker_crust: Baked Products; Cookies, graham crackers, plain or honey (includes cinnamon); 18173
+tahini: Nut and Seed Products; Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type); 12166
+wonton_wrappers: Baked Products; Wonton wrappers (includes egg roll wrappers); 18368
+horseradish: Vegetables and Vegetable Products; Drumstick leaves, cooked, boiled, drained, without salt; 11223
+mexican_cheese: Dairy and Egg Products; Cheese, mexican, queso anejo; 01165
+graham_crackers: Baked Products; Cookies, graham crackers, plain or honey (includes cinnamon); 18173
+round_steaks: Beef Products; Beef, round, bottom round, steak, separable lean and fat, trimmed to 0" fat, all grades, cooked, braised; 13398
+raw_shrimp: Finfish and Shellfish Products; Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture); 15149
+dried_chilies: Spices and Herbs; Seasoning mix, dry, chili, original; 02076
+phyllo_dough: Baked Products; Phyllo dough; 18338
+crescent_roll_dough: Baked Products; Sweet rolls, cinnamon, refrigerated dough with frosting; 18357
+pistachios: Nut and Seed Products; Nuts, mixed nuts, dry roasted, with peanuts, salt added, PLANTERS pistachio blend; 12136
+nonfat_dry_milk_powder: Dairy and Egg Products; Milk, dry, nonfat, regular, without added vitamin A and vitamin D; 01091
+cranberry_juice: Beverages; Beverages, OCEAN SPRAY, Cran-Energy, Cranberry Energy Juice Drink; 14038
+dried_marjoram: Spices and Herbs; Spices, marjoram, dried; 02023
+chocolate_cake_mix: Baked Products; Cake, angelfood, dry mix, prepared; 18088
+whole_wheat_bread: Baked Products; Bread, cracked-wheat; 18025
+chorizo_sausage: Sausages and Luncheon Meats; Sausage, pork, chorizo, link or ground, raw; 07019
+teriyaki_sauce: Soups, Sauces, and Gravies; Sauce, teriyaki, ready-to-serve; 06112
+pizza_sauce: Soups, Sauces, and Gravies; Sauce, pizza, canned, ready-to-serve; 06152
+fresh_green_beans: Vegetables and Vegetable Products; Beans, snap, green, raw; 11052
+ranch_dressing_mix: Fats and Oils; Salad dressing, ranch dressing, fat-free; 04638
+macaroni: Cereal Grains and Pasta; Macaroni, vegetable, enriched, dry; 20105
+red_cabbage: Vegetables and Vegetable Products; Cabbage, red, raw; 11112
+radishes: Vegetables and Vegetable Products; Radishes, raw; 11429
+parsnips: Vegetables and Vegetable Products; Parsnips, raw; 11298
+Chinese_five_spice_powder: Spices and Herbs; Spices, chili powder; 02009
+quinoa: Cereal Grains and Pasta; Quinoa, uncooked; 20035
+seasoning: Poultry Products; Turkey, diced, light and dark meat, seasoned; 05285
+Agave: Sweets; Sweetener, syrup, agave; 19912
+marshmallow_creme: Baked Products; Cake, coffeecake, creme-filled with chocolate frosting; 18105
+frozen_hash_browns: Vegetables and Vegetable Products; Potatoes, hash brown, home-prepared; 11370
+brown_mustard: Vegetables and Vegetable Products; Mustard greens, raw; 11270
+lemongrass: Soups, Sauces, and Gravies; SMART SOUP, Vietnamese Carrot Lemongrass; 06625
+coconut_oil: Fats and Oils; Oil, coconut; 04047
+macadamia_nuts: Nut and Seed Products; Nuts, macadamia nuts, raw; 12131
+crystallized_ginger: Vegetables and Vegetable Products; Ginger root, raw; 11216
+cooked_bacon: Pork Products; Pork, cured, bacon, cooked, baked; 10860
+club_soda: Beverages; Beverages, carbonated, club soda; 14121
+red_apples: Fruits and Fruit Juices; Apples, raw, red delicious, with skin (Includes foods for USDA's Food Distribution Program); 09500
+flank_steaks: Beef Products; Beef, flank, steak, separable lean and fat, trimmed to 0" fat, choice, raw; 13065
+salted_butter: Nut and Seed Products; Seeds, sunflower seed butter, without salt; 12040
+dried_cherries: Breakfast Cereals; Cereals, QUAKER, oatmeal, REAL MEDLEYS, cherry pistachio, dry; 08693
+canned_tomatoes: Vegetables and Vegetable Products; Tomatoes, red, ripe, canned, packed in tomato juice; 11531
+salad_greens: Fats and Oils; Salad dressing, green goddess, regular; 43017
+sun_-_dried_tomatoes_packed_in_oil: Vegetables and Vegetable Products; Tomatoes, sun-dried, packed in oil, drained; 11956
+cherry_pie_filling: Sweets; Pie fillings, apple, canned; 19312
+cod_fish_fillets: Finfish and Shellfish Products; Fish, cod, Atlantic, raw; 15015
+farfalle_pasta: Cereal Grains and Pasta; Pasta, dry, enriched; 20120
+light_ricotta_cheese: Dairy and Egg Products; Cheese, ricotta, whole milk; 01036
+salmon: Finfish and Shellfish Products; Fish, salmon, Atlantic, wild, raw; 15076
+beef_tenderloin: Beef Products; Beef, loin, tenderloin steak, boneless, separable lean and fat, trimmed to 0" fat, all grades, cooked, grilled; 13439
+whiskey: Beverages; Beverages, Whiskey sour mix, powder; 14024
+lentils: Legumes and Legume Products; Lentils, raw; 16069
+chicken_legs: Poultry Products; Chicken, broilers or fryers, leg, meat and skin, raw; 05075
+red_food_coloring: Fruits and Fruit Juices; Cherries, sour, red, frozen, unsweetened (Includes foods for USDA's Food Distribution Program); 09068
+boneless_pork_chops: Pork Products; Pork, fresh, loin, blade (chops or roasts), bone-in, separable lean and fat, raw; 10028
+chocolate_syrup: Sweets; Syrups, chocolate, HERSHEY'S Genuine Chocolate Flavored Lite Syrup; 19345
+toasted_sesame_seeds: Nut and Seed Products; Seeds, sesame seeds, whole, dried; 12023
+refrigerated_biscuits: Baked Products; Biscuits, plain or buttermilk, refrigerated dough, lower fat; 18012
+tamari: Legumes and Legume Products; Soy sauce made from soy (tamari); 16124
+ground_chicken: Poultry Products; Chicken, ground, raw; 05332
+rice_flour: Baked Products; Pan Dulce, La Ricura, Salpora de Arroz con Azucar, cookie-like, contains wheat flour and rice flour; 18958
+asiago_cheese: Dairy and Egg Products; Cheese, blue; 01004
+fresh_pineapple: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids; 09096
+cornbread_mix: Baked Products; Bread, cornbread, dry mix, enriched (includes corn muffin mix); 18022
+kale: Vegetables and Vegetable Products; Kale, raw; 11233
+franks: Sausages and Luncheon Meats; Frankfurter, beef, unheated; 07022
+saltines: Baked Products; Crackers, saltines (includes oyster, soda, soup); 18228
+whipped_cream: Dairy and Egg Products; Cream, fluid, light whipping; 01052
+condensed_cream_of_mushroom_soup: Soups, Sauces, and Gravies; Soup, cream of mushroom, canned, condensed; 06043
+fat_free_cream_cheese: Dairy and Egg Products; Cheese, American, nonfat or fat free; 01061
+cooked_turkey: Poultry Products; Turkey, whole, meat and skin, cooked, roasted; 05166
+bacon_drippings: Pork Products; Pork, bacon, rendered fat, cooked; 10864
+currants: Fruits and Fruit Juices; Currants, european black, raw; 09083
+onion_salt: Vegetables and Vegetable Products; Onions, cooked, boiled, drained, without salt; 11283
+whole_wheat_pastry_flour: Cereal Grains and Pasta; Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program); 20080
+tortillas: Snacks; Snacks, tortilla chips, plain, white corn, salted; 19056
+pita_bread: Baked Products; Bread, pita, white, enriched; 18041
+diced_pimentos: Dairy and Egg Products; Cheese, pasteurized process, pimento; 01043
+cardamom: Spices and Herbs; Spices, cardamom; 02006
+unsweetened_coconut: Beverages; Beverages, Coconut water, ready-to-drink, unsweetened; 14090
+turkey: Poultry Products; Turkey, whole, giblets, raw; 05171
+smoked_sausage: Sausages and Luncheon Meats; Sausage, smoked link sausage, pork; 07074
+kiwi: Beverages; Beverages, Kiwi Strawberry Juice Drink; 14161
+evaporated_skim_milk: Dairy and Egg Products; Cheese, mozzarella, part skim milk; 01028
+pepitas: Nut and Seed Products; Seeds, pumpkin and squash seed kernels, dried; 12014
+okra: Vegetables and Vegetable Products; Okra, raw; 11278
+pork: Pork Products; Pork, cured, bacon, unprepared; 10123
+frozen_whipped_topping: Fast Foods; Pizza, cheese topping, regular crust, frozen, cooked; 21224
+napa_cabbage: Vegetables and Vegetable Products; Cabbage, napa, cooked; 11970
+lard: Fats and Oils; Lard; 04002
+cooking_apples: Fruits and Fruit Juices; Apples, raw, without skin, cooked, boiled; 09005
+Brussels_sprouts: Vegetables and Vegetable Products; Brussels sprouts, raw; 11098
+bibb_lettuce: Vegetables and Vegetable Products; Lettuce, butterhead (includes boston and bibb types), raw; 11250
+smoked_salmon: Finfish and Shellfish Products; Fish, salmon, chinook, smoked; 15077
+canned_tuna: Finfish and Shellfish Products; Fish, tuna, light, canned in oil, drained solids; 15119
+enchilada_sauce: Soups, Sauces, and Gravies; Sauce, enchilada, red, mild, ready to serve; 27063
+Ritz_crackers: Baked Products; Nabisco, Nabisco Ritz Crackers; 18621
+wheat_bran: Breakfast Cereals; Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Toasted Wheat Bran; 08363
+ghee: Dairy and Egg Products; Butter, Clarified butter (ghee); 01323
+minced_ginger: Vegetables and Vegetable Products; Ginger root, raw; 11216
+green_peas: Vegetables and Vegetable Products; Peas, green, raw; 11304
+marinated_artichokes: Vegetables and Vegetable Products; Artichokes, (globe or french), raw; 11007
+wide_egg_noodles: Cereal Grains and Pasta; Noodles, egg, dry, enriched; 20109
+bacon_bits: Legumes and Legume Products; Bacon bits, meatless; 43212
+seasoned_stuffing_mix: Baked Products; Bread, stuffing, dry mix; 18081
+brie_cheese: Dairy and Egg Products; Cheese, brie; 01006
+frying_chicken: Fast Foods; Fast foods, chicken, breaded and fried, boneless pieces, plain; 21229
+coffee: Beverages; Beverages, coffee, ready to drink, vanilla, light, milk based, sweetened; 14173
+bok_choy: Vegetables and Vegetable Products; Cabbage, chinese (pak-choi), raw; 11116
+whole_chicken: Fast Foods; School Lunch, chicken patty, whole grain breaded; 21610
+sirloin_steaks: Beef Products; Beef, top sirloin, steak, separable lean and fat, trimmed to 0" fat, all grades, cooked, broiled; 13451
+ginger_ale: Beverages; Beverages, carbonated, ginger ale; 14136
+noodles: Soups, Sauces, and Gravies; Soup, beef noodle, canned, condensed; 06009
+lima_beans: Vegetables and Vegetable Products; Lima beans, immature seeds, raw; 11031
+unsweetened_dutch_cocoa: Sweets; Cocoa, dry powder, unsweetened; 19165
+fontina: Dairy and Egg Products; Cheese, fontina; 01020
+boneless_pork_loin: Beef Products; Beef, loin, tenderloin steak, boneless, separable lean and fat, trimmed to 0" fat, all grades, cooked, grilled; 13439
+watermelon: Fruits and Fruit Juices; Watermelon, raw; 09326
+colby_-_monterey_jack_cheese: Dairy and Egg Products; Cheese, monterey; 01025
+vanilla_wafers: Baked Products; Cookies, vanilla wafers, lower fat; 18212
+frozen_lemonade: Beverages; Lemonade, frozen concentrate, white; 14292
+fat_free_chicken_broth: Sausages and Luncheon Meats; Chicken breast, fat-free, mesquite flavor, sliced; 07932
+caramels: Sweets; Candies, caramels; 19074
+white_cake_mix: Baked Products; Cake, angelfood, dry mix, prepared; 18088
+frozen_raspberries: Fruits and Fruit Juices; Raspberries, frozen, red, sweetened; 09306
+dried_fruit: Baby Foods; Babyfood, oatmeal cereal with fruit, dry, instant, toddler fortified; 03205
+black_-_eyed_peas: Vegetables and Vegetable Products; Peas, edible-podded, raw; 11300
+pearl_barley: Cereal Grains and Pasta; Barley, pearled, raw; 20005
+small_shrimp: Finfish and Shellfish Products; Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture); 15149
+chocolate_pudding_mix: Sweets; Puddings, banana, dry mix, instant, prepared with 2% milk; 19121
+alfredo_sauce: Soups, Sauces, and Gravies; Sauce, alfredo mix, dry; 06960
+pizza_crust: Fast Foods; Pizza, cheese topping, regular crust, frozen, cooked; 21224
+nutritional_yeast: Baked Products; Doughnuts, yeast-leavened, with creme filling; 18254
+instant_rice: Baby Foods; Babyfood, cereal, brown rice, dry, instant; 42285
+oat_bran: Baked Products; Bagels, oat bran; 18007
+Oreo_cookies: Baked Products; Nabisco, Nabisco Oreo Crunchies, Cookie Crumb Topping; 18619
+wild_rice: Cereal Grains and Pasta; Wild rice, raw; 20088
+nonfat_vanilla_yogurt: Dairy and Egg Products; Yogurt, vanilla, low fat.; 01119
+watercress: Vegetables and Vegetable Products; Watercress, raw; 11591
+low_-_fat_buttermilk: Baked Products; Biscuits, plain or buttermilk, refrigerated dough, lower fat; 18012
+Philadelphia_Cream_Cheese: Dairy and Egg Products; Cheese, cottage, creamed, large or small curd; 01012
+tomatillos: Vegetables and Vegetable Products; Tomatillos, raw; 11954
+gelatin: Sweets; Gelatin desserts, dry mix; 19172
+sea_scallops: Finfish and Shellfish Products; Mollusks, scallop, (bay and sea), cooked, steamed; 90240
+pork_and_beans: Legumes and Legume Products; Beans, baked, canned, with pork; 16009
+kielbasa: Sausages and Luncheon Meats; Kielbasa, Polish, turkey and beef, smoked; 07934
+low_fat_cottage_cheese: Dairy and Egg Products; Cheese, low fat, cheddar or colby; 01168
+pork_shoulder: Pork Products; Pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder), separable lean only, raw; 10002
+salted_peanuts: Legumes and Legume Products; Peanuts, all types, cooked, boiled, with salt; 16088
+silken_tofu: Legumes and Legume Products; MORI-NU, Tofu, silken, soft; 16161
+mixed_herbs: Beverages; Beverages, tea, herb, other than chamomile, brewed; 14381
+sliced_water_chestnuts: Pork Products; Pork, cured, ham -- water added, slice, bone-in, separable lean only, heated, pan-broil; 10868
+ground_lamb: Lamb, Veal, and Game Products; Lamb, ground, raw; 17224
+gouda_cheese: Dairy and Egg Products; Cheese, gouda; 01022
+tofu: Legumes and Legume Products; Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari); 16126
+sake: Beverages; Alcoholic beverage, rice (sake); 43479
+sourdough_bread: Baked Products; Bread, french or vienna (includes sourdough); 18029
+fresh_chili_peppers: Vegetables and Vegetable Products; Peppers, hot chili, green, canned, pods, excluding seeds, solids and liquids; 11329
+rotini_pasta: Cereal Grains and Pasta; Pasta, dry, enriched; 20120
+cut_green_beans: Vegetables and Vegetable Products; Beans, snap, green, raw; 11052
+cola: Beverages; Beverages, THE COCA-COLA COMPANY, NOS Zero, energy drink, sugar-free with guarana, fortified with vitamins B6 and B12; 14026
+potato_flakes: Vegetables and Vegetable Products; Potatoes, mashed, dehydrated, flakes without milk, dry form; 11378
+turnips: Vegetables and Vegetable Products; Turnips, raw; 11564
+seedless_raisins: Fruits and Fruit Juices; Raisins, golden, seedless; 09297
+wheat_flour: Cereal Grains and Pasta; Cornmeal, yellow, self-rising, bolted, with wheat flour added, enriched; 20024
+dried_chipotle_powder: Sweets; Cocoa, dry powder, unsweetened; 19165
+sweet_cherries: Fruits and Fruit Juices; Cherries, sweet, raw; 09070
+cherries: Fruits and Fruit Juices; Acerola, (west indian cherry), raw; 09001
+fish_fillets: Restaurant Foods; DENNY'S, fish fillet, battered or breaded, fried; 36029
+dry_roasted_peanuts: Nut and Seed Products; Seeds, sunflower seed kernels, dry roasted, without salt; 12037
+barley: Cereal Grains and Pasta; Barley, hulled; 20004
+condensed_tomato_soup: Soups, Sauces, and Gravies; Soup, cream of asparagus, canned, condensed; 06001
+pork_loin_chops: Pork Products; Pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder), separable lean only, raw; 10002
+blackberries: Fruits and Fruit Juices; Blackberries, raw; 09042
+cooked_shrimp: Finfish and Shellfish Products; Crustaceans, shrimp, mixed species, cooked, breaded and fried; 15150
+desiccated_coconut: Nut and Seed Products; Nuts, coconut meat, dried (desiccated), not sweetened; 12108
+popped_popcorn: Snacks; Snacks, popcorn, air-popped; 19034
+clams: Soups, Sauces, and Gravies; Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve; 06027
+beef_brisket: Beef Products; Beef, brisket, whole, separable lean only, all grades, raw; 13023
+dried_lentils: Legumes and Legume Products; Lentils, raw; 16069
+mussels: Finfish and Shellfish Products; Mollusks, mussel, blue, raw; 15164
+grenadine: Sweets; Syrups, grenadine; 42040
+chicken_bouillon_granules: Soups, Sauces, and Gravies; Soup, chicken broth or bouillon, dry; 06080
+beef_gravy: Soups, Sauces, and Gravies; Gravy, beef, canned, ready-to-serve; 06116
+sweet_chili_sauce: Soups, Sauces, and Gravies; Sauce, sweet and sour, prepared-from-recipe; 06285
+pitted_dates: Breakfast Cereals; Cereals, QUAKER, Instant Oatmeal, raisins, dates and walnuts, dry; 08228
+frozen_green_beans: Vegetables and Vegetable Products; Lima beans, immature seeds, frozen, fordhook, unprepared; 11037
+fresh_mozzarella_cheese: Dairy and Egg Products; Cheese, mozzarella, whole milk; 01026
+unsweetened_coconut_milk: Beverages; Beverages, Coconut water, ready-to-drink, unsweetened; 14090
+bulgur: Cereal Grains and Pasta; Bulgur, dry; 20012
+deli_ham: Sausages and Luncheon Meats; Ham, sliced, pre-packaged, deli meat (96%fat free, water added); 07028
+cantaloupe: Fruits and Fruit Juices; Melons, cantaloupe, raw; 09181
+corned_beef: Sausages and Luncheon Meats; Corned beef loaf, jellied; 07020
+dark_corn_syrup: Sweets; Syrups, corn, dark; 19349
+beef_bouillon_granules: Soups, Sauces, and Gravies; Soup, beef broth or bouillon canned, ready-to-serve; 06008
+honey_mustard: Fats and Oils; Salad dressing, honey mustard dressing, reduced calorie; 04686
+clam_juice: Beverages; Beverages, Clam and tomato juice, canned; 14187
+vegetable_juice: Vegetables and Vegetable Products; Vegetable juice cocktail, canned; 11578
+vanilla_yogurt: Dairy and Egg Products; Yogurt, vanilla, low fat.; 01119
+beef_roast: Beef Products; Beef, chuck, under blade pot roast, boneless, separable lean only, trimmed to 0" fat, all grades, cooked, braised; 13285
+butter_flavor_shortening: Snacks; Snacks, popcorn, microwave, regular (butter) flavor, made with partially hydrogenated oil; 25014
+maple_extract: Breakfast Cereals; Cereals, QUAKER, Instant Oatmeal, maple and brown sugar, dry; 08130
+roasting_chickens: Poultry Products; Chicken, broilers or fryers, meat and skin and giblets and neck, roasted; 05004
+beans: Legumes and Legume Products; Beans, adzuki, mature seeds, raw; 16001
+fat_-_free_mayonnaise: Fats and Oils; Salad dressing, KRAFT Mayo Fat Free Mayonnaise Dressing; 04013
+red_lentils: Legumes and Legume Products; Lentils, pink or red, raw; 16144
+scallops: Vegetables and Vegetable Products; Potatoes, scalloped, home-prepared with butter; 11372
+low_sodium_beef_broth: Soups, Sauces, and Gravies; Soup, beef broth, less/reduced sodium, ready to serve; 06188
+acorn_squash: Vegetables and Vegetable Products; Squash, winter, acorn, raw; 11482
+tea: Beverages; Beverages, NESTEA, tea, black, ready-to-drink, lemon; 14137
+smoked_ham: Sausages and Luncheon Meats; Ham, honey, smoked, cooked; 07938
+baked_beans: Legumes and Legume Products; Beans, baked, home prepared; 16005
+potato_starch: Baked Products; Bread, gluten-free, white, made with potato extract, rice starch, and rice flour; 28336
+bamboo_shoots: Vegetables and Vegetable Products; Bamboo shoots, raw; 11026
+mixed_spice: Spices and Herbs; Spices, allspice, ground; 02001
+apricots: Fruits and Fruit Juices; Apricots, raw; 09021
+swiss_chard: Vegetables and Vegetable Products; Chard, swiss, raw; 11147
+frozen_blueberries: Fruits and Fruit Juices; Blueberries, wild, frozen (Includes foods for USDA's Food Distribution Program); 09053
+fresh_goat_cheese: Dairy and Egg Products; Cheese, goat, hard type; 01156
+fennel_bulb: Vegetables and Vegetable Products; Fennel, bulb, raw; 11957
+brown_sugar_substitute: Breakfast Cereals; Cereals, QUAKER, Instant Oatmeal, maple and brown sugar, dry; 08130
+navel_oranges: Fruits and Fruit Juices; Oranges, raw, navels (Includes foods for USDA's Food Distribution Program); 09202
+mace: Spices and Herbs; Spices, mace, ground; 02022
+almond_milk: Beverages; Beverages, almond milk, sweetened, vanilla flavor, ready-to-drink; 14016
+gin: Beverages; Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof; 14037
+dried_navy_beans: Legumes and Legume Products; Beans, navy, mature seeds, raw; 16037
+pork_spareribs: Pork Products; Pork, fresh, composite of trimmed leg, loin, shoulder, and spareribs, (includes cuts to be cured), separable lean and fat, raw; 10003
+croutons: Baked Products; Croutons, plain; 18242
+dried_mint: Spices and Herbs; Spearmint, dried; 02066
+salami: Sausages and Luncheon Meats; Beerwurst, beer salami, pork and beef; 07002
+prunes: Fruits and Fruit Juices; Prunes, canned, heavy syrup pack, solids and liquids; 09288
+lamb: Lamb, Veal, and Game Products; Lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4" fat, choice, raw; 17001
+mixed_greens: Vegetables and Vegetable Products; Vegetables, mixed (corn, lima beans, peas, green beans, carrots) canned, no salt added; 43312
+fresh_peaches: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids; 09096
+English_muffins: Baked Products; Muffins, English, plain, enriched, with ca prop (includes sourdough); 18258
+white_pearl_onions: Fast Foods; SUBWAY, sweet onion chicken teriyaki sub on white bread with lettuce, tomato and sweet onion sauce; 21150
+steak: Beef Products; Beef, grass-fed, strip steaks, lean only, raw; 13000
+garlic_paste: Dairy and Egg Products; Cheese, pasteurized process, American, fortified with vitamin D; 01042
+turkey_breast: Poultry Products; Turkey, all classes, breast, meat and skin, raw; 05191
+beef_sirloin_steaks: Beef Products; Beef, grass-fed, strip steaks, lean only, raw; 13000
+fish_stock: Soups, Sauces, and Gravies; Soup, stock, fish, home-prepared; 06174
+grapefruit_juice: Fruits and Fruit Juices; Grapefruit, sections, canned, juice pack, solids and liquids; 09120
+shredded_hash_brown_potatoes: Vegetables and Vegetable Products; Potatoes, hash brown, home-prepared; 11370
+green_food_coloring: Vegetables and Vegetable Products; Beans, snap, green, frozen, all styles, unprepared (Includes foods for USDA's Food Distribution Program); 11060
+plums: Fruits and Fruit Juices; Carissa, (natal-plum), raw; 09061
+roast_beef: Beef Products; Beef, chuck, under blade pot roast, boneless, separable lean only, trimmed to 0" fat, all grades, cooked, braised; 13285
+all_-_bran_cereal: Breakfast Cereals; Cereals ready-to-eat, QUAKER, QUAKER CRUNCHY BRAN; 08018
+whole_wheat_tortillas: Baked Products; Bread, pita, whole-wheat; 18042
+salad_dressing: Fats and Oils; Salad dressing, KRAFT Mayo Light Mayonnaise; 04011
+protein_powder: Beverages; Beverages, ABBOTT, EAS whey protein powder; 14033
+rye_flour: Cereal Grains and Pasta; Rye flour, dark; 20063
+rice_noodles: Cereal Grains and Pasta; Rice noodles, dry; 20133
+steak_sauce: Soups, Sauces, and Gravies; Sauce, steak, tomato based; 27048
+jicama: Vegetables and Vegetable Products; Yambean (jicama), raw; 11603
+ramen_noodles: Soups, Sauces, and Gravies; Soup, ramen noodle, any flavor, dry; 06583
+potato_chips: Snacks; Snacks, potato chips, barbecue-flavor; 19042
+fat_-_free_half_-_and_-_half: Beef Products; Beef, brisket, flat half, separable lean and fat, trimmed to 1/8" fat, select, cooked, braised; 13055
+red_curry_paste: Dairy and Egg Products; KRAFT VELVEETA LIGHT Reduced Fat Pasteurized Process Cheese Product; 01192
+canned_black_beans: Legumes and Legume Products; Beans, adzuki, mature seeds, canned, sweetened; 16003
+gingersnaps: Baked Products; Cookies, gingersnaps; 18172
+pretzels: Snacks; Snacks, pretzels, hard, plain, salted; 19047
+fresh_herbs: Beverages; Beverages, tea, herb, other than chamomile, brewed; 14381
+7_-_up: Beverages; Alcoholic beverage, beer, regular, all; 14003
+angel_food_cake: Baked Products; Nabisco, Nabisco Snackwell's Fat Free Devil's Food Cookie Cakes; 18651
+vegetable_bouillon_cubes: Soups, Sauces, and Gravies; Soup, bouillon cubes and granules, low sodium, dry; 06981
+Italian_cheese: Restaurant Foods; CARRABBA'S ITALIAN GRILL, cheese ravioli with marinara sauce; 36053
+neufchatel_cheese: Dairy and Egg Products; Cheese, neufchatel; 01031
+roasted_peanuts: Nut and Seed Products; Nuts, mixed nuts, dry roasted, with peanuts, without salt added; 12135
+chili_seasoning_mix: Spices and Herbs; Seasoning mix, dry, sazon, coriander & annatto; 02074
+semolina: Cereal Grains and Pasta; Semolina, enriched; 20066
+split_peas: Soups, Sauces, and Gravies; Soup, pea, split with ham, canned, chunky, ready-to-serve; 06050
+pickles: Vegetables and Vegetable Products; Beets, pickled, canned, solids and liquids; 11609
+cooked_pasta: Cereal Grains and Pasta; Pasta, gluten-free, corn, cooked; 20092
+Mexican_oregano: Spices and Herbs; Spices, oregano, dried; 02027
+white_corn: Vegetables and Vegetable Products; Corn, sweet, white, raw; 11900
+artichokes: Vegetables and Vegetable Products; Artichokes, (globe or french), raw; 11007
+small_shell_pasta: Cereal Grains and Pasta; Pasta, dry, enriched; 20120
+shell_pasta: Cereal Grains and Pasta; Pasta, dry, enriched; 20120
+boneless_pork_shoulder: Pork Products; Pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder), separable lean only, raw; 10002
+fresh_peas: Vegetables and Vegetable Products; Peas, edible-podded, raw; 11300
+Polish_sausage: Sausages and Luncheon Meats; Polish sausage, pork; 07059
+minced_beef: Beef Products; Beef, carcass, separable lean and fat, choice, raw; 13001
+Canadian_bacon: Pork Products; Canadian bacon, unprepared; 10130
+arrowroot: Baby Foods; Babyfood, cookies, arrowroot; 03214
+herbs: Beverages; Beverages, tea, herb, other than chamomile, brewed; 14381
+rutabagas: Vegetables and Vegetable Products; Rutabagas, raw; 11435
+stale_bread: Baked Products; Bread, banana, prepared from recipe, made with margarine; 18019
+jam: Sweets; Jams and preserves; 19297
+solid_pack_pumpkin: Fruits and Fruit Juices; Apricots, canned, water pack, with skin, solids and liquids; 09022
+rye_bread: Baked Products; Bread, reduced-calorie, rye; 18053
+apple_pie_filling: Baked Products; Pie, apple, commercially prepared, enriched flour; 18301
+vermicelli: Meals, Entrees, and Side Dishes; Rice and vermicelli mix, chicken flavor, prepared with 80% margarine; 22999
+anise_seed: Spices and Herbs; Spices, anise seed; 02002
+pork_roast: Pork Products; Pork, fresh, leg (ham), whole, separable lean and fat, cooked, roasted; 10009
+frozen_whole_kernel_corn: Vegetables and Vegetable Products; Corn, sweet, yellow, canned, whole kernel, drained solids; 11172
+dried_currants: Fruits and Fruit Juices; Currants, zante, dried; 09085
+mild_chili_powder: Spices and Herbs; Spices, chili powder; 02009
+ham_bone: Pork Products; Pork, cured, ham -- water added, rump, bone-in, separable lean only, heated, roasted; 10865
+mandarin_orange_segments: Fruits and Fruit Juices; Tangerines, (mandarin oranges), raw; 09218
+ladyfingers: Baked Products; Cookies, ladyfingers, with lemon juice and rind; 18175
+green_tomatoes: Vegetables and Vegetable Products; Tomatoes, green, raw; 11527
+cheddar_cheese_soup: Dairy and Egg Products; Cheese, cheddar (Includes foods for USDA's Food Distribution Program); 01009
+nonfat_cottage_cheese: Dairy and Egg Products; Cheese, cottage, creamed, large or small curd; 01012
+gluten_-_free_flour: Baked Products; Bread, gluten-free, white, made with potato extract, rice starch, and rice flour; 28336
+biscuits: Baked Products; Biscuits, plain or buttermilk, frozen, baked; 18009
+skinless_chicken_thighs: Poultry Products; Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw; 05062
+light_butter: Fats and Oils; Butter, light, stick, with salt; 04601
+dried_sweetened_cranberries: Fruits and Fruit Juices; Cherries, tart, dried, sweetened (Includes foods for USDA's Food Distribution Program); 09044
+brownie_mix: Baked Products; Cookies, brownies, dry mix, regular; 18152
+fresh_bean_sprouts: Vegetables and Vegetable Products; Beans, kidney, mature seeds, sprouted, raw; 11029
+chicken_soup_base: Soups, Sauces, and Gravies; Soup, chicken broth, canned, condensed; 06013
+chow_mein_noodles: Restaurant Foods; Restaurant, Chinese, chicken chow mein; 36623
+M_&_M's: Legumes and Legume Products; Beans, adzuki, mature seeds, raw; 16001
+squash: Vegetables and Vegetable Products; Squash, summer, crookneck and straightneck, raw; 11467
+papayas: Fruits and Fruit Juices; Papayas, raw; 09226
+brown_rice_flour: Cereal Grains and Pasta; Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program); 20036
+ground_mace: Spices and Herbs; Spices, mace, ground; 02022
+dried_figs: Fruits and Fruit Juices; Figs, dried, uncooked; 09094
+baby_portabella_mushrooms: Vegetables and Vegetable Products; Mushrooms, portabella, grilled; 11243
+turkey_bacon: Sausages and Luncheon Meats; Bacon, turkey, unprepared; 07254
+fennel: Spices and Herbs; Spices, fennel seed; 02018
+chicken_livers: Poultry Products; Chicken, liver, all classes, raw; 05027
+Italian_salad_dressing_mix: Fats and Oils; Salad dressing, italian dressing, commercial, reduced fat; 04021
+white_bread_flour: Cereal Grains and Pasta; Corn flour, masa, enriched, white; 20017
+almond_paste: Nut and Seed Products; Nuts, almond paste; 12071
+vanilla_sugar: Sweets; Ice creams, vanilla, light, no sugar added; 19260
+granola_cereal: Breakfast Cereals; Cereals ready-to-eat, granola, homemade; 08037
+fish: Finfish and Shellfish Products; Fish, anchovy, european, raw; 15001
+key_lime_juice: Fruits and Fruit Juices; Lime juice, raw; 09160
+cream_of_coconut: Sweets; Puddings, coconut cream, dry mix, instant, prepared with 2% milk; 19191
+pomegranate_juice: Fruits and Fruit Juices; Pomegranate juice, bottled; 09442
+red_snapper: Finfish and Shellfish Products; Fish, snapper, mixed species, raw; 15101
+walnut_oil: Fats and Oils; Oil, walnut; 04528
+whole_mushrooms: Vegetables and Vegetable Products; Mushrooms, shiitake, raw; 11238
+candied_cherries: Sweets; Candies, TWIZZLERS CHERRY BITES; 19067
+dark_beer: Beverages; Alcoholic beverage, beer, regular, all; 14003
+mixed_berries: Dairy and Egg Products; Yogurt, Greek, 2% fat,mixed berry blend, CHOBANI; 01249
+salt_pork: Pork Products; Pork, cured, salt pork, raw; 10165
+ground_veal: Lamb, Veal, and Game Products; Veal, ground, raw; 17142
+eggnog: Dairy and Egg Products; Eggnog; 01057
+stevia: Sweets; Sweetener, herbal extract powder from Stevia leaf; 19918
+fresh_carrots: Vegetables and Vegetable Products; Carrots, raw; 11124
+red_beans: Legumes and Legume Products; Beans, kidney, california red, mature seeds, raw; 16030
+leg_of_lamb: Lamb, Veal, and Game Products; Lamb, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/4" fat, choice, raw; 17011
+honeydews: Fruits and Fruit Juices; Melons, honeydew, raw; 09184
+tapioca_flour: Baked Products; Bread, gluten-free, white, made with rice flour, corn starch, and/or tapioca; 28337
+juice: Fruits and Fruit Juices; Acerola juice, raw; 09002
+fresh_ricotta: Dairy and Egg Products; Cheese, ricotta, whole milk; 01036
+unsweetened_pineapple_juice: Fruits and Fruit Juices; Apple juice, canned or bottled, unsweetened, without added ascorbic acid; 09016
+espresso: Beverages; Beverages, coffee, brewed, espresso, restaurant-prepared, decaffeinated; 14202
+horseradish_sauce: Soups, Sauces, and Gravies; Sauce, horseradish; 27066
+canned_artichoke_hearts: Vegetables and Vegetable Products; Hearts of palm, canned; 11961
+anchovies: Finfish and Shellfish Products; Fish, anchovy, european, raw; 15001
+kaiser_rolls: Baked Products; Rolls, hard (includes kaiser); 18353
+Mexican_-_style_tomatoes: Vegetables and Vegetable Products; Tomato products, canned, sauce, spanish style; 11649
+lobsters: Finfish and Shellfish Products; Crustaceans, lobster, northern, raw; 15147
+yellow_food_coloring: Vegetables and Vegetable Products; Corn, sweet, yellow, frozen, kernels cut off cob, unprepared (Includes foods for USDA's Food Distribution Program); 11178
+tasty_cheese: Dairy and Egg Products; Cheese, blue; 01004
+oat_flour: Cereal Grains and Pasta; Oat flour, partially debranned; 20132
+hot_chili_sauce: Soups, Sauces, and Gravies; Sauce, ready-to-serve, pepper or hot; 06168
+roasted_unsalted_peanuts: Nut and Seed Products; Nuts, mixed nuts, dry roasted, with peanuts, without salt added; 12135
+raspberry_gelatin_powder: Sweets; Gelatins, dry powder, unsweetened; 19177
+pitted_prunes: Fruits and Fruit Juices; Prunes, canned, heavy syrup pack, solids and liquids; 09288
+golden_delicious_apples: Fruits and Fruit Juices; Apples, raw, red delicious, with skin (Includes foods for USDA's Food Distribution Program); 09500
+cheese_tortellini: Meals, Entrees, and Side Dishes; Tortellini, pasta with cheese filling, fresh-refrigerated, as purchased; 22901
+Cool_Whip_Topping: Dairy and Egg Products; Cream, whipped, cream topping, pressurized; 01054
+frozen_limeade_concentrate: Beverages; Beverages, citrus fruit juice drink, frozen concentrate; 14262
+spaghetti_squash: Vegetables and Vegetable Products; Squash, winter, spaghetti, raw; 11492
+cereal: Breakfast Cereals; Cereals ready-to-eat, GENERAL MILLS, CHEERIOS; 08013
+crackers: Baked Products; Cookies, graham crackers, plain or honey (includes cinnamon); 18173
+mixed_nuts: Nut and Seed Products; Nuts, mixed nuts, dry roasted, with peanuts, without salt added; 12135
+soy_flour: Legumes and Legume Products; Soy flour, full-fat, raw; 16115
+dried_pinto_beans: Legumes and Legume Products; Beans, pinto, mature seeds, raw (Includes foods for USDA's Food Distribution Program); 16042
+French_onion_soup: Soups, Sauces, and Gravies; Soup, onion, canned, condensed; 06045
+vital_wheat_gluten: Baked Products; Schar, Gluten-Free, Wheat-Free, Classic White Bread; 28369
+fenugreek_seeds: Spices and Herbs; Spices, fenugreek seed; 02019
+thousand_island_dressing: Fats and Oils; Salad dressing, thousand island, commercial, regular; 04017
+canned_chick_-_peas: Vegetables and Vegetable Products; Peas, edible-podded, raw; 11300
+caesar_salad_dressing: Fats and Oils; Salad dressing, KRAFT Mayo Light Mayonnaise; 04011
+spareribs: Pork Products; Pork, fresh, composite of trimmed leg, loin, shoulder, and spareribs, (includes cuts to be cured), separable lean and fat, raw; 10003
+pancake_mix: Baked Products; Pancakes, plain, dry mix, complete (includes buttermilk); 18289
+corn_flake_crumbs: Breakfast Cereals; Cereals ready-to-eat, RALSTON Corn Flakes; 08506
+fresh_blackberries: Fruits and Fruit Juices; Blackberries, raw; 09042
+white_whole_wheat_flour: Cereal Grains and Pasta; Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program); 20080
+syrup: Fruits and Fruit Juices; Apricots, canned, extra light syrup pack, with skin, solids and liquids (Includes foods for USDA's Food Distribution Program); 09025
+jumbo_pasta_shells: Cereal Grains and Pasta; Pasta, dry, enriched; 20120
+colby_cheese: Dairy and Egg Products; Cheese, colby; 01011
+white_balsamic_vinegar: Spices and Herbs; Vinegar, balsamic; 02069
+sriracha_sauce: Soups, Sauces, and Gravies; Sauce, hot chile, sriracha; 06631
+muenster_cheese: Dairy and Egg Products; Cheese, muenster; 01030
+chocolate_wafers: Baked Products; Cookies, chocolate wafers; 18157
+dill_seeds: Spices and Herbs; Spices, dill seed; 02016
+Cheez_Whiz: Dairy and Egg Products; KRAFT CHEEZ WHIZ Pasteurized Process Cheese Sauce; 01188
+cornbread: Baked Products; Bread, cornbread, dry mix, enriched (includes corn muffin mix); 18022
+fresh_marjoram: Spices and Herbs; Spices, marjoram, dried; 02023
+thin_spaghetti: Cereal Grains and Pasta; Pasta, dry, enriched; 20120
+beef_consomme: Soups, Sauces, and Gravies; Soup, beef broth bouillon and consomme, canned, condensed; 06032
+salsa_verde: Soups, Sauces, and Gravies; Sauce, salsa, verde, ready-to-serve; 27047
+edamame: Vegetables and Vegetable Products; Edamame, frozen, unprepared; 11211
+apple_butter: Sweets; Fruit butters, apple; 19294
+rib_eye_steaks: Beef Products; Beef, rib, eye, small end (ribs 10-12), separable lean and fat, trimmed to 0" fat, choice, raw; 13095
+brown_basmati_rice: Snacks; Snacks, rice cracker brown rice, plain; 19051
+fruit_cocktail: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids; 09096
+clarified_butter: Dairy and Egg Products; Butter, Clarified butter (ghee); 01323
+miso: Legumes and Legume Products; Miso; 16112
+canned_jalapeno_slices: Fruits and Fruit Juices; Apples, canned, sweetened, sliced, drained, heated; 09008
+French_dressing: Fats and Oils; Salad dressing, french dressing, reduced fat; 04020
+apricot_nectar: Fruits and Fruit Juices; Apricot nectar, canned, with added ascorbic acid; 09036
+plantains: Fruits and Fruit Juices; Plantains, yellow, raw; 09277
+double_crust_pie_crust: Baked Products; Pie crust, standard-type, dry mix; 18332
+frozen_peas_and_carrots: Vegetables and Vegetable Products; Peas and carrots, frozen, unprepared; 11322
+cooked_macaroni: Cereal Grains and Pasta; Macaroni, vegetable, enriched, cooked; 20106
+almond_butter: Nut and Seed Products; Nuts, almond butter, plain, without salt added; 12195
+green_enchilada_sauce: Soups, Sauces, and Gravies; Sauce, chili, peppers, hot, immature green, canned; 06962
+buckwheat_flour: Cereal Grains and Pasta; Buckwheat flour, whole-groat; 20011
+pasta_shells: Cereal Grains and Pasta; Pasta, dry, enriched; 20120
+sour_mix: Beverages; Beverages, Whiskey sour mix, powder; 14024
+bay_scallops: Finfish and Shellfish Products; Mollusks, scallop, (bay and sea), cooked, steamed; 90240
+tuna_in_olive_oil: Finfish and Shellfish Products; Fish, tuna, light, canned in oil, drained solids; 15119
+raw_cashews: Nut and Seed Products; Nuts, cashew nuts, raw; 12087
+long_grain_and_wild_rice_blend: Cereal Grains and Pasta; Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program); 20036
+nectarines: Fruits and Fruit Juices; Nectarines, raw; 09191
+hot_dog_buns: Sausages and Luncheon Meats; Frankfurter, beef, unheated; 07022
+chocolate_ice_cream: Sweets; Ice creams, vanilla, light; 19088
+low_sodium_vegetable_broth: Soups, Sauces, and Gravies; Soup, vegetable, canned, low sodium, condensed; 06217
+dried_black_beans: Legumes and Legume Products; Beans, black, mature seeds, raw; 16014
+sugar_cookie_mix: Baked Products; Cookies, brownies, dry mix, regular; 18152
+dried_kidney_beans: Legumes and Legume Products; Beans, kidney, all types, mature seeds, raw; 16027
+butter_flavoring: Snacks; Snacks, popcorn, microwave, regular (butter) flavor, made with partially hydrogenated oil; 25014
+savoy_cabbage: Vegetables and Vegetable Products; Cabbage, savoy, raw; 11114
+cheese_ravioli: Restaurant Foods; CARRABBA'S ITALIAN GRILL, cheese ravioli with marinara sauce; 36053
+wasabi: Soups, Sauces, and Gravies; Wasabi; 27064
+smoked_turkey_sausage: Sausages and Luncheon Meats; Sausage, turkey, reduced fat, brown and serve, cooked; 07066
+cherry_juice: Fruits and Fruit Juices; Cherries, sweet, canned, juice pack, solids and liquids; 09072
+hominy: Breakfast Cereals; Cereals, QUAKER, hominy grits, white, quick, dry; 08314
+cooked_noodles: Cereal Grains and Pasta; Noodles, egg, enriched, cooked; 20110
+skirt_steaks: Beef Products; Beef, plate, inside skirt steak, separable lean only, trimmed to 0" fat, all grades, cooked, broiled; 13977
+ice_cream: Sweets; Ice creams, vanilla, light; 19088
+cod: Finfish and Shellfish Products; Fish, cod, Atlantic, raw; 15015
+baby_back_ribs: Beef Products; Beef, rib, back ribs, bone-in, separable lean only, trimmed to 0" fat, all grades, cooked, braised; 23180
+tapioca_starch: Baked Products; Bread, gluten-free, white, made with rice flour, corn starch, and/or tapioca; 28337
+pink_salmon: Finfish and Shellfish Products; Fish, salmon, pink, raw; 15083
+minced_clams: Soups, Sauces, and Gravies; Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve; 06027
+liquid_pectin: Sweets; Pectin, liquid; 42063
+whole_wheat_pita_bread: Baked Products; Bread, pita, whole-wheat; 18042
+orange_flower_water: Beverages; Beverages, orange-flavor drink, breakfast type, powder, prepared with water; 14408
+condensed_cheddar_cheese_soup: Soups, Sauces, and Gravies; Soup, cheese, canned, condensed; 06011
+albacore_tuna: Finfish and Shellfish Products; Fish, tuna, fresh, bluefin, raw; 15117
+green_lentils: Legumes and Legume Products; Lentils, raw; 16069
+red_leaf_lettuce: Vegetables and Vegetable Products; Lettuce, green leaf, raw; 11253
+gluten: Baked Products; Bread, protein (includes gluten); 18043
+queso_fresco: Dairy and Egg Products; Cheese, fresh, queso fresco; 01228
+condensed_golden_mushroom_soup: Soups, Sauces, and Gravies; Soup, mushroom barley, canned, condensed; 06042
+white_baking_chocolate: Sweets; Baking chocolate, unsweetened, liquid; 19077
+hash_browns: Vegetables and Vegetable Products; Potatoes, hash brown, home-prepared; 11370
+soba_noodles: Cereal Grains and Pasta; Noodles, japanese, soba, dry; 20114
+instant_lemon_pudding: Sweets; Puddings, banana, dry mix, instant, prepared with 2% milk; 19121
+rice_milk: Baby Foods; Babyfood, cereal, rice, prepared with whole milk; 03694
+cake_mix: Baked Products; Cake, angelfood, dry mix, prepared; 18088
+frozen_lima_beans: Vegetables and Vegetable Products; Lima beans, immature seeds, raw; 11031
+creme_de_menthe: Beverages; Alcoholic beverage, creme de menthe, 72 proof; 14034
+apple_pie_spice: Baked Products; Pie, apple, commercially prepared, enriched flour; 18301
+lemonade: Beverages; Beverages, Lemonade fruit juice drink light, fortified with vitamin E and C; 14174
+frozen_vegetables: Meals, Entrees, and Side Dishes; Egg rolls, vegetable, frozen, prepared; 22955
+cinnamon_sugar: Breakfast Cereals; Cereals, QUAKER, Instant Oatmeal, Cinnamon Spice, reduced sugar; 08639
+Thai_red_curry_paste: Soups, Sauces, and Gravies; SMART SOUP, Thai Coconut Curry; 06624
+wild_mushrooms: Vegetables and Vegetable Products; Mushrooms, shiitake, raw; 11238
+lean_beef: Beef Products; Beef, carcass, separable lean and fat, choice, raw; 13001
+rice_vermicelli: Meals, Entrees, and Side Dishes; Rice and vermicelli mix, chicken flavor, prepared with 80% margarine; 22999
+fat_-_free_cheddar_cheese: Dairy and Egg Products; Cheese, cheddar, nonfat or fat free; 01265
+beef_short_ribs: Beef Products; Beef, rib, eye, small end (ribs 10-12), separable lean and fat, trimmed to 0" fat, choice, raw; 13095
+tangerines: Fruits and Fruit Juices; Tangerines, (mandarin oranges), raw; 09218
+radicchio: Vegetables and Vegetable Products; Radicchio, raw; 11952
+turkey_broth: Poultry Products; Turkey, canned, meat only, with broth; 05284
+dry_pasta: Cereal Grains and Pasta; Pasta, gluten-free, corn, dry; 20091
+savory: Spices and Herbs; Spices, savory, ground; 02039
+hummus: Legumes and Legume Products; Hummus, home prepared; 16137
+figs: Fruits and Fruit Juices; Figs, raw; 09089
+lamb_chops: Lamb, Veal, and Game Products; Lamb, New Zealand, imported, leg chop/steak, bone-in, separable lean and fat, raw; 17072
+deli_turkey: Sausages and Luncheon Meats; Turkey breast, low salt, prepackaged or deli, luncheon meat; 07046
+corn_on_the_cob: Vegetables and Vegetable Products; Corn, sweet, yellow, frozen, kernels cut off cob, unprepared (Includes foods for USDA's Food Distribution Program); 11178
+medium_egg_noodles: Cereal Grains and Pasta; Noodles, egg, dry, enriched; 20109
+hot_coffee: Beverages; Beverages, coffee, ready to drink, vanilla, light, milk based, sweetened; 14173
+romaine_lettuce_hearts: Vegetables and Vegetable Products; Lettuce, cos or romaine, raw; 11251
+lean_ground_sirloin: Beef Products; Beef, top sirloin, steak, separable lean and fat, trimmed to 0" fat, all grades, cooked, broiled; 13451
+creole_mustard: Vegetables and Vegetable Products; Mustard greens, raw; 11270
+dried_apples: Baby Foods; Babyfood, cereal, whole wheat, with apples, dry fortified; 03184
+fat_-_free_buttermilk: Fats and Oils; Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie, fat-free; 42157
+whole_turkey: Poultry Products; Turkey, whole, meat and skin, raw; 05165
+plain_soymilk: Legumes and Legume Products; SILK Plain, soymilk; 16235
+dried_shiitake_mushrooms: Vegetables and Vegetable Products; Mushrooms, shiitake, raw; 11238
+dried_garbanzo_beans: Legumes and Legume Products; Chickpeas (garbanzo beans, bengal gram), mature seeds, raw; 16056
+Cheerios_toasted_oat_cereal: Breakfast Cereals; Cereals ready-to-eat, QUAKER, Toasted Multigrain Crisps; 08216
+light_cheddar_cheese: Dairy and Egg Products; Cheese, cheddar (Includes foods for USDA's Food Distribution Program); 01009
+Cornish_hens: Poultry Products; Chicken, cornish game hens, meat and skin, raw; 05307
+bratwursts: Sausages and Luncheon Meats; Bratwurst, pork, cooked; 07013
+whole_wheat_breadcrumbs: Baked Products; Bread, pita, whole-wheat; 18042
+crab: Finfish and Shellfish Products; Crustaceans, crab, alaska king, raw; 15136
+brewed_espresso: Beverages; Beverages, coffee, brewed, espresso, restaurant-prepared, decaffeinated; 14202
+rotisserie_-_cooked_chicken: Poultry Products; Chicken, broilers or fryers, rotisserie, original seasoning, back, meat only, cooked; 05341
+beef_eye_round: Beef Products; Beef, rib, eye, small end (ribs 10-12), separable lean and fat, trimmed to 0" fat, choice, raw; 13095
+red_cinnamon_candies: Breakfast Cereals; Cereals, QUAKER, Instant Oatmeal, Cinnamon Spice, reduced sugar; 08639
+vanilla_flavoring: Dairy and Egg Products; Yogurt, vanilla or lemon flavor, nonfat milk, sweetened with low-calorie sweetener; 01184
+short_-_grain_rice: Cereal Grains and Pasta; Rice, white, short-grain, enriched, uncooked; 20052
+lemon_cake_mix: Baked Products; Cake, angelfood, dry mix, prepared; 18088
+lean_pork: Pork Products; Pork, fresh, carcass, separable lean and fat, raw; 10001
+fat: Beef Products; Beef, carcass, separable lean and fat, choice, raw; 13001
+Thai_fish_sauce: Fast Foods; Fast foods, fish sandwich, with tartar sauce; 21105
+Stove_Top_stuffing_mix: Baked Products; Kraft, Stove Top Stuffing Mix Chicken Flavor; 18567
+Sprite: Beverages; Beverages, carbonated, SPRITE, lemon-lime, without caffeine; 14145
+turkey_sausage: Sausages and Luncheon Meats; Sausage, turkey, reduced fat, brown and serve, cooked; 07066
+canned_mushrooms: Soups, Sauces, and Gravies; Soup, mushroom barley, canned, condensed; 06042
+French_rolls: Baked Products; Rolls, french; 18349
+greens: Vegetables and Vegetable Products; Beans, snap, green, raw; 11052
+frozen_artichoke_hearts: Vegetables and Vegetable Products; Artichokes, (globe or french), frozen, unprepared; 11009
+reduced_-_fat_feta_cheese: Dairy and Egg Products; Cheese, feta; 01019
+grape_jelly: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids; 09096
+mashed_sweet_potatoes: Vegetables and Vegetable Products; Potatoes, mashed, home-prepared, whole milk and margarine added; 11371
+red_enchilada_sauce: Soups, Sauces, and Gravies; Sauce, teriyaki, ready-to-serve, reduced sodium; 06189
+ranch_style_beans: Vegetables and Vegetable Products; Beans, snap, canned, all styles, seasoned, solids and liquids; 11058
+cream_of_potato_soup: Soups, Sauces, and Gravies; Soup, cream of potato, canned, condensed; 06053
+boiling_potatoes: Vegetables and Vegetable Products; Potatoes, boiled, cooked in skin, flesh, without salt; 11365
+liqueur: Beverages; Alcoholic beverage, liqueur, coffee, 53 proof; 14414
+taco_shells: Baked Products; Taco shells, baked; 18360
+hot_fudge: Fast Foods; Fast foods, sundae, hot fudge; 21033
+escarole: Vegetables and Vegetable Products; Escarole, cooked, boiled, drained, no salt added; 11214
+textured_vegetable_protein: Legumes and Legume Products; Soy sauce made from hydrolyzed vegetable protein; 16125
+black_sesame_seeds: Nut and Seed Products; Seeds, sesame seeds, whole, dried; 12023
+spice_cake_mix: Baked Products; Cake, angelfood, dry mix, prepared; 18088
+lamb_shanks: Lamb, Veal, and Game Products; Lamb, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/4" fat, choice, raw; 17011
+pumpernickel_bread: Baked Products; Bread, pumpernickel; 18044
+whole_wheat_pasta: Baked Products; Bread, pita, whole-wheat; 18042
+fajita_seasoning_mix: Spices and Herbs; Seasoning mix, dry, sazon, coriander & annatto; 02074
+cubed_ham: Beef Products; Beef, round, bottom round, steak, separable lean and fat, trimmed to 0" fat, all grades, cooked, braised; 13398
+unsweetened_apple_juice: Fruits and Fruit Juices; Apples, frozen, unsweetened, unheated (Includes foods for USDA's Food Distribution Program); 09014
+shortcrust_pastry: Baked Products; Puff pastry, frozen, ready-to-bake, baked; 18211
+fresh_horseradish: Vegetables and Vegetable Products; Drumstick leaves, cooked, boiled, drained, without salt; 11223
+Thai_sweet_chili_sauce: Soups, Sauces, and Gravies; Sauce, peppers, hot, chili, mature red, canned; 06961
+dried_split_peas: Soups, Sauces, and Gravies; Soup, pea, split with ham, canned, chunky, ready-to-serve; 06050
+sliced_apples: Fruits and Fruit Juices; Apples, canned, sweetened, sliced, drained, heated; 09008
+popcorn: Snacks; Snacks, popcorn, air-popped; 19034
+squid: Finfish and Shellfish Products; Mollusks, squid, mixed species, raw; 15175
+fat_-_free_refried_beans: Legumes and Legume Products; Refried beans, canned, fat-free; 16172
+whole_wheat_spaghetti: Baked Products; Bread, pita, whole-wheat; 18042
+dinner_rolls: Baked Products; Rolls, dinner, plain, commercially prepared (includes brown-and-serve); 18342
+grits: Breakfast Cereals; Cereals, corn grits, white, regular and quick, enriched, dry; 08090
+fresh_lemongrass: Soups, Sauces, and Gravies; SMART SOUP, Vietnamese Carrot Lemongrass; 06625
+dried_beef: Soups, Sauces, and Gravies; Soup, beef broth or bouillon, powder, dry; 06075
+vanilla_frosting: Sweets; Frostings, vanilla, creamy, ready-to-eat; 19230
+toasted_wheat_germ: Baked Products; Bread, wheat, toasted; 18065
+chickpea_flour: Legumes and Legume Products; Chickpea flour (besan); 16157
+black_tea: Beverages; Beverages, NESTEA, tea, black, ready-to-drink, lemon; 14137
+frozen_orange_juice: Fruits and Fruit Juices; Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid; 09017
+essential_oils: Fats and Oils; Oil, soybean, salad or cooking, (partially hydrogenated); 04034
+bitters: Vegetables and Vegetable Products; Balsam-pear (bitter gourd), leafy tips, raw; 11022
+veal_cutlets: Lamb, Veal, and Game Products; Veal, leg, top round, cap off, cutlet, boneless, cooked, grilled; 17425
+roast: Beef Products; Beef, chuck, under blade pot roast, boneless, separable lean only, trimmed to 0" fat, all grades, cooked, braised; 13285
+banana_peppers: Vegetables and Vegetable Products; Pepper, banana, raw; 11976
+plum_sauce: Soups, Sauces, and Gravies; Sauce, plum, ready-to-serve; 06151
+low_-_fat_cream_of_mushroom_soup: Soups, Sauces, and Gravies; Soup, cream of asparagus, canned, condensed; 06001
+fudge_brownie_mix: Baked Products; Cookies, brownies, dry mix, regular; 18152
+pink_grapefruit: Fruits and Fruit Juices; Grapefruit, raw, pink and red and white, all areas; 09111
+mild_curry_powder: Spices and Herbs; Spices, curry powder; 02015
+green_cardamoms: Spices and Herbs; Spices, cardamom; 02006
+cube_steaks: Beef Products; Beef, round, bottom round, steak, separable lean and fat, trimmed to 0" fat, all grades, cooked, braised; 13398
+chicken_flavor_stuffing_mix: Baked Products; Kraft, Stove Top Stuffing Mix Chicken Flavor; 18567
+whole_wheat_penne: Baked Products; Bread, pita, whole-wheat; 18042
+vanilla_wafer_crumbs: Baked Products; Cookies, vanilla wafers, lower fat; 18212
+roasted_cashews: Nut and Seed Products; Nuts, cashew nuts, dry roasted, without salt added; 12085
+fat_free_Greek_yogurt: Dairy and Egg Products; Yogurt, Greek, 2% fat, apricot, CHOBANI; 01064
+Spam: Sausages and Luncheon Meats; Luncheon meat, pork, ham, and chicken, minced, canned, reduced sodium, added ascorbic acid, includes SPAM, 25% less sodium; 07906
+fat_-_free_ricotta_cheese: Dairy and Egg Products; Cheese, ricotta, whole milk; 01036
+cooked_wild_rice: Cereal Grains and Pasta; Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program); 20037
+alfalfa_sprouts: Vegetables and Vegetable Products; Alfalfa seeds, sprouted, raw; 11001
+butterscotch_pudding_mix: Sweets; Puddings, banana, dry mix, instant, prepared with 2% milk; 19121
+quick_-_cooking_grits: Breakfast Cereals; Cereals, corn grits, white, regular and quick, enriched, cooked with water, without salt; 08091
+orange_Jell_-_O: Beverages; Beverages, orange-flavor drink, breakfast type, powder, prepared with water; 14408
+dry_pectin: Sweets; Pectin, unsweetened, dry mix; 19310
+sugar_-_free_instant_vanilla_pudding_mix: Sweets; Puddings, vanilla, dry mix, instant; 19202
+green_peppercorns: Fats and Oils; Salad dressing, peppercorn dressing, commercial, regular; 42137
+fresh_yeast: Baked Products; Doughnuts, yeast-leavened, with creme filling; 18254
+chocolate_wafer_crumbs: Baked Products; Cookies, chocolate wafers; 18157
+toast: Baked Products; Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame), toasted; 18002
+peppermint_candies: Sweets; Candies, YORK Peppermint Pattie; 19091
+non_-_dairy_coffee_creamer: Beverages; Beverages, coffee, instant, vanilla, sweetened, decaffeinated, with non dairy creamer; 14270
+condensed_beef_broth: Soups, Sauces, and Gravies; Soup, beef broth or bouillon canned, ready-to-serve; 06008
+smoked_turkey: Sausages and Luncheon Meats; Sausage, turkey, pork, and beef, low fat, smoked; 07900
+peach_slices: Fruits and Fruit Juices; Peaches, frozen, sliced, sweetened; 09250
+cooked_beef: Beef Products; Beef, brisket, flat half, separable lean and fat, trimmed to 1/8" fat, select, cooked, braised; 13055
+tomatoes_in_puree: Vegetables and Vegetable Products; Tomato products, canned, puree, without salt added; 11547
+instant_pistachio_pudding_mix: Sweets; Puddings, banana, dry mix, instant, prepared with 2% milk; 19121
+prepared_stuffing: Baked Products; Bread, stuffing, dry mix, prepared; 18082
+fresh_figs: Fruits and Fruit Juices; Figs, raw; 09089
+unsulphured_molasses: Baked Products; Cookies, molasses; 18177
+double_-_acting_baking_powder: Baked Products; Leavening agents, baking powder, double-acting, sodium aluminum sulfate; 18369
+beef_flank_steak: Beef Products; Beef, grass-fed, strip steaks, lean only, raw; 13000
+white_grape_juice: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, juice pack, solids and liquids; 09097
+sirloin: Beef Products; Beef, top sirloin, steak, separable lean and fat, trimmed to 0" fat, all grades, cooked, broiled; 13451
+seasoned_croutons: Baked Products; Croutons, seasoned; 18243
+veal: Lamb, Veal, and Game Products; Veal, Australian, rib, rib roast, separable lean only, raw; 17000
+chia_seeds: Nut and Seed Products; Seeds, chia seeds, dried; 12006
+boneless_pork: Pork Products; Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, raw; 10062
+tapioca: Baby Foods; Babyfood, fruit, apricot with tapioca, strained; 03118
+stir_fry_vegetables: Vegetables and Vegetable Products; Mung beans, mature seeds, sprouted, cooked, stir-fried; 11045
+frozen_peaches: Fruits and Fruit Juices; Peaches, frozen, sliced, sweetened; 09250
+beef_steaks: Beef Products; Beef, grass-fed, strip steaks, lean only, raw; 13000
+garlic_oil: Fats and Oils; Oil, soybean, salad or cooking, (partially hydrogenated); 04034
+chicken_stock_cube: Soups, Sauces, and Gravies; Soup, chicken broth cubes, dry; 06081
+seafood_cocktail_sauce: Soups, Sauces, and Gravies; Sauce, cocktail, ready-to-serve; 27051
+halibut: Finfish and Shellfish Products; Fish, halibut, Atlantic and Pacific, raw; 15036
+chocolate_sandwich_style_cookies: Baked Products; Cookies, chocolate sandwich, with creme filling, regular; 18166
+frozen_apple_juice_concentrate: Fruits and Fruit Juices; Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid; 09017
+dry_buttermilk: Baked Products; Biscuits, plain or buttermilk, dry mix; 18010
+Belgian_endive: Vegetables and Vegetable Products; Endive, raw; 11213
+venison: Lamb, Veal, and Game Products; Game meat, deer, ground, raw; 17343
+chipotle_hot_sauce: Soups, Sauces, and Gravies; Sauce, ready-to-serve, pepper or hot; 06168
+Coleslaw: Restaurant Foods; APPLEBEE'S, coleslaw; 36021
+mango_nectar: Fruits and Fruit Juices; Mango nectar, canned; 09436
+frozen_meatballs: Sausages and Luncheon Meats; Meatballs, frozen, Italian style; 07972
+dried_savory: Spices and Herbs; Spices, savory, ground; 02039
+dried_mushrooms: Soups, Sauces, and Gravies; Gravy, mushroom, dry, powder; 06122
+candied_fruit: Sweets; Candies, MARS SNACKFOOD US, STARBURST Fruit Chews, Original fruits; 19156
+bran_flakes: Breakfast Cereals; Cereals ready-to-eat, POST Bran Flakes; 08029
+white_raisins: Baked Products; Bagels, cinnamon-raisin; 18005
+winter_squash: Vegetables and Vegetable Products; Squash, winter, acorn, raw; 11482
+millet: Cereal Grains and Pasta; Millet, raw; 20031
+ham_steaks: Pork Products; Pork, cured, ham, steak, boneless, extra lean, unheated; 10149
+grape_juice: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, juice pack, solids and liquids; 09097
+tiny_new_potatoes: Vegetables and Vegetable Products; Potatoes, flesh and skin, raw; 11352
+quick_-_cooking_barley: Cereal Grains and Pasta; Barley, pearled, cooked; 20006
+whipped_cream_cheese: Dairy and Egg Products; Cheese, cottage, creamed, large or small curd; 01012
+tortellini: Meals, Entrees, and Side Dishes; Tortellini, pasta with cheese filling, fresh-refrigerated, as purchased; 22901
+cornbread_stuffing_mix: Baked Products; Bread, cornbread, dry mix, enriched (includes corn muffin mix); 18022
+canned_chicken_broth: Soups, Sauces, and Gravies; Soup, beef broth or bouillon canned, ready-to-serve; 06008
+butter_recipe_cake_mix: Vegetables and Vegetable Products; Potatoes, au gratin, home-prepared from recipe using butter; 11373
+sweet_and_sour_sauce: Soups, Sauces, and Gravies; Sauce, sweet and sour, prepared-from-recipe; 06285
+green_chili_salsa: Vegetables and Vegetable Products; Peppers, hot chili, green, canned, pods, excluding seeds, solids and liquids; 11329
+canned_kidney_beans: Legumes and Legume Products; Beans, adzuki, mature seeds, canned, sweetened; 16003
+dried_blueberries: Baked Products; Muffins, blueberry, dry mix; 18275
+cooked_quinoa: Cereal Grains and Pasta; Quinoa, cooked; 20137
+instant_malted_milk_powder: Beverages; Beverages, chocolate malt, powder, prepared with fat free milk; 14083
+tempeh: Legumes and Legume Products; Tempeh; 16114
+salted_cashews: Nut and Seed Products; Nuts, cashew nuts, dry roasted, without salt added; 12085
+lean_ham: Pork Products; Pork, fresh, leg (ham), whole, separable lean and fat, raw; 10008
+cooked_pumpkin: Vegetables and Vegetable Products; Pumpkin flowers, cooked, boiled, drained, without salt; 11417
+blueberry_pie_filling: Sweets; Pie fillings, apple, canned; 19312
+sugar_syrup: Sweets; Syrups, table blends, corn, refiner, and sugar; 19362
+green_tea: Beverages; Beverages, tea, green, ready to drink, ginseng and honey, sweetened; 14188
+fat_-_free_Italian_salad_dressing: Fats and Oils; Salad dressing, KRAFT Mayo Fat Free Mayonnaise Dressing; 04013
+cooked_boneless_skinless_chicken_breasts: Poultry Products; Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw; 05062
+chocolate_frosting: Baked Products; Cake, cherry fudge with chocolate frosting; 18095
+lager_beer: Beverages; Alcoholic beverage, beer, regular, all; 14003
+lean_hamburger: Beef Products; Beef, ground, 70% lean meat / 30% fat, crumbles, cooked, pan-browned; 13494
+fat_free_egg_substitute: Dairy and Egg Products; Egg substitute, liquid or frozen, fat free; 01226
+bosc_pears: Fruits and Fruit Juices; Pears, raw, bosc (Includes foods for USDA's Food Distribution Program); 09414
+Orange_sherbet: Sweets; Sherbet, orange; 19097
+white_miso: Legumes and Legume Products; Miso; 16112
+seasoned_pepper: Vegetables and Vegetable Products; Corn with red and green peppers, canned, solids and liquids; 11184
+coffee_ice_cream: Sweets; Ice creams, vanilla, light; 19088
+coffee_beans: Sweets; Candies, dark chocolate coated coffee beans; 19268
+Hershey_chocolate_kisses: Sweets; Candies, HERSHEY'S MILK CHOCOLATE WITH ALMOND BITES; 19236
+oyster_mushrooms: Vegetables and Vegetable Products; Mushrooms, oyster, raw; 11987
+hearts_of_palm: Vegetables and Vegetable Products; Hearts of palm, canned; 11961
+gravy: Soups, Sauces, and Gravies; Gravy, au jus, canned; 06114
+frozen_cheese_tortellini: Meals, Entrees, and Side Dishes; HOT POCKETS Ham 'N Cheese Stuffed Sandwich, frozen; 22537
+vanilla_-_flavored_soymilk: Legumes and Legume Products; Soymilk, original and vanilla, unfortified; 16120
+pie_filling: Sweets; Pie fillings, apple, canned; 19312
+fresh_mango: Fruits and Fruit Juices; Mangos, raw; 09176
+chive_&_onion_cream_cheese: Vegetables and Vegetable Products; Chives, raw; 11156
+frozen_pearl_onions: Vegetables and Vegetable Products; Onions, frozen, chopped, unprepared; 11287
+white_sauce: Soups, Sauces, and Gravies; Sauce, homemade, white, medium; 06166
+non_-_dairy_whipped_topping: Fats and Oils; Oil, industrial, palm kernel (hydrogenated) , used for whipped toppings, non-dairy; 04660
+white_peppercorns: Fats and Oils; Salad dressing, peppercorn dressing, commercial, regular; 42137
+root_beer: Beverages; Beverages, carbonated, root beer; 14157
+chestnuts: Nut and Seed Products; Nuts, chestnuts, chinese, raw; 12093
+bartlett_pears: Fruits and Fruit Juices; Pears, raw, bartlett (Includes foods for USDA's Food Distribution Program); 09412
+mixed_fruit: Baby Foods; Babyfood, juice, mixed fruit; 03179
+corned_beef_brisket: Beef Products; Beef, brisket, whole, separable lean only, all grades, raw; 13023
+chicken_thigh_fillets: Poultry Products; Chicken, broilers or fryers, thigh, meat and skin, raw; 05091
+fat_free_mozzarella_cheese: Dairy and Egg Products; Cheese, American, nonfat or fat free; 01061
+35_%_cream: Beverages; Alcoholic beverage, beer, regular, all; 14003
+pickled_ginger: Vegetables and Vegetable Products; Ginger root, pickled, canned, with artificial sweetener; 31033
+apple_juice_concentrate: Fruits and Fruit Juices; Apple juice, canned or bottled, unsweetened, without added ascorbic acid; 09016
+Madras_curry_powder: Spices and Herbs; Spices, curry powder; 02015
+refrigerated_chocolate_chip_cookie_dough: Baked Products; Cookies, chocolate chip, refrigerated dough; 18163
+lite_olive_oil: Fats and Oils; Oil, olive, salad or cooking; 04053
+chocolate_fudge_topping: Sweets; Candies, fudge, chocolate, prepared-from-recipe; 19100
+chicken_stock_powder: Soups, Sauces, and Gravies; Soup, stock, chicken, home-prepared; 06172
+butter_flavored_crackers: Baked Products; Crackers, cheese, sandwich-type with peanut butter filling; 18215
+ground_venison: Lamb, Veal, and Game Products; Game meat, deer, ground, raw; 17343
+white_cornmeal: Cereal Grains and Pasta; Cornmeal, whole-grain, white; 20320
+sorghum_flour: Cereal Grains and Pasta; Sorghum flour, whole-grain; 20648
+fine_egg_noodles: Cereal Grains and Pasta; Noodles, egg, dry, enriched; 20109
+dried_black_-_eyed_peas: Vegetables and Vegetable Products; Peas, edible-podded, raw; 11300
+cooking_spray: Fats and Oils; Oil, PAM cooking spray, original; 04679
+chicken_sausage: Sausages and Luncheon Meats; Sausage, Vienna, canned, chicken, beef, pork; 07083
+candied_orange_peel: Fruits and Fruit Juices; Oranges, raw, with peel; 09205
+Miracle_Whip_light: Dairy and Egg Products; Cream, fluid, light whipping; 01052
+Cotija_cheese: Dairy and Egg Products; Cheese, mexican, queso cotija; 01267
+swordfish_steaks: Beef Products; Beef, grass-fed, strip steaks, lean only, raw; 13000
+pea_pods: Vegetables and Vegetable Products; Peas, edible-podded, raw; 11300
+dried_dates: Breakfast Cereals; Cereals, QUAKER, Instant Oatmeal, raisins, dates and walnuts, dry; 08228
+beef_sirloin: Beef Products; Beef, top sirloin, steak, separable lean and fat, trimmed to 0" fat, all grades, cooked, broiled; 13451
+udon_noodles: Soups, Sauces, and Gravies; Soup, beef noodle, canned, condensed; 06009
+skinless_chicken: Poultry Products; Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw; 05062
+Heath_candy_bars: Sweets; Candies, ALMOND JOY Candy Bar; 19065
+lamb_shoulder: Lamb, Veal, and Game Products; Lamb, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4" fat, choice, raw; 17035
+grapefruit: Fruits and Fruit Juices; Grapefruit, raw, pink and red and white, all areas; 09111
+cooked_turkey_breast: Poultry Products; Chicken, broilers or fryers, breast, meat and skin, cooked, fried, batter; 05058
+chicken_-_flavored_ramen_noodles: Soups, Sauces, and Gravies; Soup, ramen noodle, chicken flavor, dry; 06983
+cheese_spread: Dairy and Egg Products; Cheese spread, pasteurized process, American; 01048
+roasted_sunflower_seeds: Nut and Seed Products; Seeds, pumpkin and squash seed kernels, roasted, without salt; 12016
+pectin: Sweets; Pectin, unsweetened, dry mix; 19310
+smoked_mozzarella_cheese: Dairy and Egg Products; Cheese, mozzarella, whole milk; 01026
+homemade_chicken_stock: Soups, Sauces, and Gravies; Soup, stock, chicken, home-prepared; 06172
+beef_liver: Beef Products; Beef, variety meats and by-products, liver, raw; 13325
+angel_food_cake_mix: Baked Products; Cake, angelfood, dry mix, prepared; 18088
+instant_chicken_bouillon: Soups, Sauces, and Gravies; Soup, chicken broth or bouillon, dry; 06080
+pickling_cucumbers: Vegetables and Vegetable Products; Pickles, cucumber, dill or kosher dill; 11937
+jalapeno_jelly: Vegetables and Vegetable Products; Peppers, jalapeno, canned, solids and liquids; 11632
+condensed_chicken_broth: Soups, Sauces, and Gravies; Soup, chicken broth, canned, condensed; 06013
+candied_pineapple: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids; 09096
+New_York_strip_steaks: Beef Products; Beef, loin, top loin steak, boneless, lip off, separable lean and fat, trimmed to 0" fat, all grades, cooked, grilled; 13445
+white_hominy: Breakfast Cereals; Cereals, QUAKER, hominy grits, white, quick, dry; 08314
+skim_milk_powder: Beverages; Beverages, chocolate malt, powder, prepared with fat free milk; 14083
+boneless_leg_of_lamb: Lamb, Veal, and Game Products; Lamb, Australian, imported, fresh, leg, sirloin half, boneless, separable lean and fat, trimmed to 1/8" fat, raw; 17298
+racks_of_lamb: Lamb, Veal, and Game Products; Lamb, New Zealand, imported, rack - partly frenched, separable lean and fat, raw; 17080
+london_broil_beef: Beef Products; Beef, flank, steak, separable lean and fat, trimmed to 0" fat, choice, cooked, broiled; 13067
+assorted_fresh_vegetables: Meals, Entrees, and Side Dishes; Turkey, stuffing, mashed potatoes w/gravy, assorted vegetables, frozen, microwaved; 22957
+suet: Beef Products; Beef, variety meats and by-products, suet, raw; 13335
+jelly: Sweets; Candies, gumdrops, starch jelly pieces; 19106
+fava_beans: Legumes and Legume Products; Broadbeans (fava beans), mature seeds, raw; 16052
+French_fries: Vegetables and Vegetable Products; Potatoes, french fried, crinkle or regular cut, salt added in processing, frozen, as purchased; 11359
+white_sesame_seeds: Nut and Seed Products; Seeds, sesame seeds, whole, dried; 12023
+white_cabbage: Vegetables and Vegetable Products; Cabbage, raw; 11109
+chili_with_beans: Meals, Entrees, and Side Dishes; Chili con carne with beans, canned entree; 22904
+self_-_rising_cornmeal: Cereal Grains and Pasta; Cornmeal, yellow, self-rising, bolted, plain, enriched; 20023
+hot_chocolate_powder: Beverages; Beverages, chocolate powder, no sugar added; 14063
+canned_chicken: Soups, Sauces, and Gravies; Soup, chicken broth, canned, condensed; 06013
+brazil_nuts: Nut and Seed Products; Nuts, brazilnuts, dried, unblanched; 12078
+marmalade: Sweets; Marmalade, orange; 19303
+cooked_pork: Pork Products; Pork, fresh, composite of separable fat, with added solution, cooked; 10000
+peach_nectar: Fruits and Fruit Juices; Peach nectar, canned, with sucralose, without added ascorbic acid; 09251
+guar_gum: Sweets; Gums, seed gums (includes locust bean, guar); 42281
+flax_seed_oil: Nut and Seed Products; Seeds, sunflower seed kernels, oil roasted, without salt; 12038
+croissants: Baked Products; Croissants, butter; 18239
+celeriac: Vegetables and Vegetable Products; Celeriac, raw; 11141
+pre_-_shredded_mozzarella_cheese: Dairy and Egg Products; Cheese, mozzarella, whole milk; 01026
+frozen_shrimp: Finfish and Shellfish Products; Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture); 15149
+carob_powder: Beverages; Beverages, Carob-flavor beverage mix, powder; 14168
+red_radishes: Vegetables and Vegetable Products; Radishes, raw; 11429
+raw_peanuts: Legumes and Legume Products; Peanuts, all types, raw; 16087
+fruit_juice: Beverages; Beverages, Mixed vegetable and fruit juice drink, with added nutrients; 14119
+fresh_pumpkin: Vegetables and Vegetable Products; Pumpkin flowers, raw; 11416
+digestive_biscuits: Baked Products; Biscuits, plain or buttermilk, frozen, baked; 18009
+cream_cheese_frosting: Dairy and Egg Products; Cheese, cottage, creamed, large or small curd; 01012
+Heinz_57_steak_sauce: Soups, Sauces, and Gravies; Sauce, steak, tomato based; 27048
+Cool_Whip_Free: Dairy and Egg Products; Reddi Wip Fat Free Whipped Topping; 01200
+sugar_-_free_maple_syrup: Sweets; Sugars, maple; 19340
+red_chili_paste: Vegetables and Vegetable Products; Tomatoes, red, ripe, canned, with green chilies; 11537
+rabbit: Lamb, Veal, and Game Products; Game meat, rabbit, domesticated, composite of cuts, raw; 17177
+pita_bread_rounds: Lamb, Veal, and Game Products; Veal, leg (top round), separable lean and fat, cooked, pan-fried, breaded; 17096
+passion_fruit: Fruits and Fruit Juices; Passion-fruit, (granadilla), purple, raw; 09231
+lamb_loin_chops: Pork Products; Pork, fresh, loin, blade (chops or roasts), bone-in, separable lean and fat, raw; 10028
+cinnamon_raisin_bread: Baked Products; Bagels, cinnamon-raisin; 18005
+Asian_chili_sauce: Soups, Sauces, and Gravies; Sauce, peppers, hot, chili, mature red, canned; 06961
+whole_wheat_couscous: Baked Products; Bread, pita, whole-wheat; 18042
+solid_white_tuna: Finfish and Shellfish Products; Fish, tuna, light, canned in oil, drained solids; 15119
+potato_flour: Baked Products; Bread, gluten-free, white, made with potato extract, rice starch, and rice flour; 28336
+lean_ground_lamb: Lamb, Veal, and Game Products; Lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4" fat, choice, raw; 17001
+rye_cocktail_bread: Baked Products; Bread, reduced-calorie, rye; 18053
+light_whipped_topping: Dairy and Egg Products; Cream, fluid, light whipping; 01052
+duck: Poultry Products; Duck, domesticated, meat and skin, raw; 05139
+cooked_sweet_potatoes: Vegetables and Vegetable Products; Corn, sweet, yellow, cooked, boiled, drained, without salt; 11168
+chervil: Spices and Herbs; Spices, chervil, dried; 02008
+black_bean_sauce: Legumes and Legume Products; Beans, baked, canned, with pork and sweet sauce; 16010
+strawberry_yogurt: Dairy and Egg Products; Yogurt, Greek, strawberry, DANNON OIKOS; 01276
+small_white_beans: Legumes and Legume Products; Beans, small white, mature seeds, raw; 16045
+shoyu: Legumes and Legume Products; Soy sauce made from soy and wheat (shoyu); 16123
+cinnamon_baking_chips: Snacks; Tortilla chips, low fat, baked without fat; 19433
+brown_rice_syrup: Snacks; Snacks, rice cracker brown rice, plain; 19051
+boneless_center_cut_pork_chops: Pork Products; Pork, fresh, loin, center loin (chops), bone-in, separable lean only, raw; 10040
+Smart_Balance_butter_spread: Fats and Oils; Margarine-like spread, SMART BALANCE Regular Buttery Spread with flax oil; 04673
+sweet_rice_flour: Baked Products; Pan Dulce, La Ricura, Salpora de Arroz con Azucar, cookie-like, contains wheat flour and rice flour; 18958
+pot_roast: Beef Products; Beef, chuck, under blade pot roast, boneless, separable lean only, trimmed to 0" fat, all grades, cooked, braised; 13285
+cookies: Baked Products; Cookies, brownies, commercially prepared; 18151
+Snickers_candy_bars: Sweets; Candies, ALMOND JOY Candy Bar; 19065
+lemon_yogurt: Dairy and Egg Products; Yogurt, vanilla or lemon flavor, nonfat milk, sweetened with low-calorie sweetener; 01184
+frozen_unsweetened_strawberries: Fruits and Fruit Juices; Apples, frozen, unsweetened, unheated (Includes foods for USDA's Food Distribution Program); 09014
+frozen_cranberries: Beverages; Cranberry juice cocktail, frozen concentrate; 14430
+chocolate_instant_pudding: Sweets; Puddings, banana, dry mix, instant, prepared with 2% milk; 19121
+ale: Beverages; Beverages, carbonated, ginger ale; 14136
+light_beer: Beverages; Alcoholic beverage, beer, light, BUDWEISER SELECT; 14005
+dried_red_lentils: Dairy and Egg Products; Milk, dry, nonfat, calcium reduced; 01093
+boiled_ham: Pork Products; Pork, fresh, leg (ham), whole, separable lean and fat, raw; 10008
+Grape_-_nuts_cereal: Breakfast Cereals; Cereals ready-to-eat, POST, GRAPE-NUTS Cereal; 08038
+boneless_beef_roast: Beef Products; Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0" fat, all grades, cooked, grilled; 13351
+Fiber_One_cereal: Breakfast Cereals; Cereals ready-to-eat, HEALTH VALLEY, FIBER 7 Flakes; 08290
+seedless_raspberry_preserves: Fruits and Fruit Juices; Raspberries, puree, seedless; 09552
+chocolate_cookie_crumbs: Baked Products; Cookies, chocolate wafers; 18157
+camembert_cheese: Dairy and Egg Products; Cheese, camembert; 01007
+Raisin_Bran_cereal: Breakfast Cereals; Cereals ready-to-eat, QUAKER, QUAKER CRUNCHY BRAN; 08018
+strawberry_ice_cream: Sweets; Ice creams, vanilla, light; 19088
+macaroni_and_cheese_mix: Meals, Entrees, and Side Dishes; Macaroni and cheese dinner with dry sauce mix, boxed, uncooked; 22959
+canned_salmon: Finfish and Shellfish Products; Fish, salmon, chum, canned, drained solids with bone; 15080
+buttermilk_baking_mix: Baked Products; Biscuits, plain or buttermilk, frozen, baked; 18009
+browning_sauce: Vegetables and Vegetable Products; Potatoes, hash brown, frozen, with butter sauce, unprepared; 11392
+bottled_clam_juice: Fruits and Fruit Juices; Apple juice, canned or bottled, unsweetened, without added ascorbic acid; 09016
+bologna: Sausages and Luncheon Meats; Bologna, beef; 07007
+sugar_-_free_instant_chocolate_pudding_mix: Sweets; Puddings, chocolate, dry mix, instant, prepared with 2% milk; 19123
+solid_white_tuna_packed_in_water: Finfish and Shellfish Products; Fish, tuna, white, canned in water, drained solids; 15126
+pudding: Sweets; Puddings, banana, dry mix, instant, prepared with 2% milk; 19121
+citric_acid: Fruits and Fruit Juices; Apple juice, canned or bottled, unsweetened, without added ascorbic acid; 09016
+Velveeta_reduced_fat_cheese_product: Dairy and Egg Products; KRAFT VELVEETA LIGHT Reduced Fat Pasteurized Process Cheese Product; 01192
+shell_macaroni: Cereal Grains and Pasta; Pasta, dry, enriched; 20120
+condensed_cream_of_potato_soup: Soups, Sauces, and Gravies; Soup, cream of potato, canned, condensed; 06053
+Pillsbury_Grands_refrigerated_buttermilk_biscuits: Baked Products; Pillsbury, Buttermilk Biscuits, Artificial Flavor, refrigerated dough; 18629
+yellow_tomatoes: Vegetables and Vegetable Products; Tomatoes, yellow, raw; 11696
+sofrito_sauce: Soups, Sauces, and Gravies; Sauce, sofrito, prepared from recipe; 06142
+shelled_pistachios: Nut and Seed Products; Nuts, mixed nuts, dry roasted, with peanuts, salt added, PLANTERS pistachio blend; 12136
+chocolate_graham_crackers: Baked Products; Cookies, graham crackers, plain or honey (includes cinnamon); 18173
+unsalted_sunflower_seeds: Nut and Seed Products; Seeds, sunflower seed kernels, dried; 12036
+roasted_sweet_red_peppers: Vegetables and Vegetable Products; Peppers, sweet, red, raw; 11821
+real_vanilla_extract: Spices and Herbs; Vanilla extract; 02050
+pecan_nuts: Nut and Seed Products; Nuts, pecans; 12142
+maple_sugar: Breakfast Cereals; Cereals, QUAKER, Instant Oatmeal, maple and brown sugar, dry; 08130
+coffee_-_flavored_liqueur: Beverages; Alcoholic beverage, liqueur, coffee, 53 proof; 14414
+small_mushrooms: Vegetables and Vegetable Products; Mushrooms, shiitake, raw; 11238
+grape_leaves: Vegetables and Vegetable Products; Grape leaves, raw; 11974
+frozen_cauliflower: Vegetables and Vegetable Products; Cauliflower, frozen, unprepared; 11137
+creme_de_banane: Beverages; Alcoholic beverage, creme de menthe, 72 proof; 14034
+cream_of_wheat: Breakfast Cereals; Cereals, CREAM OF WHEAT, regular, 10 minute cooking, dry; 08102
+vegetable_soup_mix: Soups, Sauces, and Gravies; Soup, chicken and vegetable, canned, ready-to-serve; 06024
+turkey_meat: Poultry Products; Turkey, whole, meat and skin, raw; 05165
+soy_yogurt: Legumes and Legume Products; SILK Vanilla soy yogurt (family size); 16250
+refrigerated_breadstick_dough: Baked Products; Biscuits, plain or buttermilk, refrigerated dough, lower fat; 18012
+pastrami: Sausages and Luncheon Meats; Pastrami, turkey; 07052
+lemonade_concentrate: Beverages; Lemonade, frozen concentrate, white; 14292
+chocolate_milk: Sweets; Candies, TOBLERONE, milk chocolate with honey and almond nougat; 19001
+cavatappi_pasta: Restaurant Foods; CARRABBA'S ITALIAN GRILL, chicken parmesan without cavatappi pasta; 36057
+broccoli_rabe: Vegetables and Vegetable Products; Broccoli raab, raw; 11096
+black_forest_ham: Fast Foods; SUBWAY, black forest ham sub on white bread with lettuce and tomato; 21209
+Oreo_cookie_crumbs: Baked Products; Nabisco, Nabisco Oreo Crunchies, Cookie Crumb Topping; 18619
+98_%_fat_-_free_cream_of_chicken_soup: Beverages; Alcoholic beverage, beer, regular, all; 14003
+soybeans: Fats and Oils; Salad dressing, mayonnaise, soybean and safflower oil, with salt; 04026
+shortbread_cookies: Baked Products; Cookies, shortbread, commercially prepared, plain; 18192
+mustard_greens: Vegetables and Vegetable Products; Mustard greens, raw; 11270
+dried_beans: Legumes and Legume Products; Beans, adzuki, mature seeds, raw; 16001
+cooked_lentils: Vegetables and Vegetable Products; Lentils, sprouted, cooked, stir-fried, without salt; 11249
+chinese_noodles: Cereal Grains and Pasta; Noodles, chinese, chow mein; 20113
+pumpkin_pie_filling: Sweets; Pie fillings, apple, canned; 19312
+frozen_edamame: Vegetables and Vegetable Products; Edamame, frozen, unprepared; 11211
+creme_de_cassis: Beverages; Alcoholic beverage, creme de menthe, 72 proof; 14034
+chicken_gravy: Soups, Sauces, and Gravies; Gravy, chicken, canned or bottled, ready-to-serve; 06119
+French_beans: Legumes and Legume Products; Beans, french, mature seeds, raw; 16022
+frozen_blackberries: Fruits and Fruit Juices; Blackberries, frozen, unsweetened; 09048
+fresh_mussels: Finfish and Shellfish Products; Mollusks, mussel, blue, raw; 15164
+canned_peaches: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids; 09096
+baby_greens: Vegetables and Vegetable Products; Peas, green (includes baby and lesuer types), canned, drained solids, unprepared; 11308
+French_onion_dip: Snacks; Snacks, FRITOLAY, SUNCHIPS, multigrain, French onion flavor; 25022
+whole_wheat_lasagna_noodles: Cereal Grains and Pasta; Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program); 20124
+process_American_cheese: Dairy and Egg Products; Cheese, pasteurized process, American, fortified with vitamin D; 01042
+frosting: Baked Products; Cake, cherry fudge with chocolate frosting; 18095
+cake: Baked Products; Cake, angelfood, commercially prepared; 18086
+chocolate_cookie_pie_crust: Baked Products; Cookies, marshmallow, chocolate-coated (includes marshmallow pies); 18176
+raisin_bread: Baked Products; Bread, raisin, enriched; 18047
+cream_of_shrimp_soup: Soups, Sauces, and Gravies; Soup, cream of shrimp, canned, condensed; 06056
+turkey_pepperoni: Sausages and Luncheon Meats; Hormel Pillow Pak Sliced Turkey Pepperoni; 07278
+turkey_gravy: Soups, Sauces, and Gravies; Gravy, turkey, canned, ready-to-serve; 06125
+honey_mustard_dressing: Fats and Oils; Salad dressing, honey mustard dressing, reduced calorie; 04686
+haddock: Finfish and Shellfish Products; Fish, haddock, raw; 15033
+duck_breasts: Poultry Products; Duck, wild, breast, meat only, raw; 05145
+bagels: Baked Products; Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame); 18001
+vanilla_frozen_yogurt: Dairy and Egg Products; Yogurt, vanilla, low fat.; 01119
+small_pretzels: Snacks; Snacks, pretzels, hard, plain, salted; 19047
+cooked_basmati_rice: Cereal Grains and Pasta; Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program); 20037
+boneless_beef_chuck: Beef Products; Beef, chuck, arm pot roast, separable lean and fat, trimmed to 0" fat, all grades, cooked, braised; 13373
+peach_pie_filling: Sweets; Pie fillings, apple, canned; 19312
+frozen_carrots: Vegetables and Vegetable Products; Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program); 11130
+dulce_de_leche: Dairy and Egg Products; Dulce de Leche; 01225
+dried_shrimp: Finfish and Shellfish Products; Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture); 15149
+chili_without_beans: Legumes and Legume Products; Beans, adzuki, mature seeds, cooked, boiled, without salt; 16002
+Velveeta_Mexican_cheese: Dairy and Egg Products; Cheese, mexican, queso anejo; 01165
+Russian_salad_dressing: Fats and Oils; Salad dressing, KRAFT Mayo Light Mayonnaise; 04011
+white_chicken_meat: Poultry Products; Chicken, broiler, rotisserie, BBQ, breast, meat only; 05000
+smoked_turkey_breast: Poultry Products; Turkey, all classes, breast, meat and skin, raw; 05191
+puffed_rice_cereal: Baby Foods; Babyfood, cereal, rice, dry fortified; 03194
+mixed_peel: Fruits and Fruit Juices; Lemons, raw, without peel; 09150
+low_-_fat_chicken_broth: Soups, Sauces, and Gravies; Soup, chicken broth, canned, condensed; 06013
+cream_of_onion_soup: Soups, Sauces, and Gravies; Soup, cream of onion, canned, condensed; 06046
+cooking_wine: Beverages; Alcoholic beverage, wine, cooking; 43154
+boiled_potatoes: Vegetables and Vegetable Products; Potatoes, boiled, cooked in skin, flesh, without salt; 11365
+puree: Fruits and Fruit Juices; Prune puree; 09423
+peas_and_carrots: Vegetables and Vegetable Products; Peas and carrots, canned, regular pack, solids and liquids; 11318
+frozen_dinner_rolls: Baked Products; Rolls, dinner, plain, commercially prepared (includes brown-and-serve); 18342
+dried_pineapple: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids; 09096
+cellophane_noodles: Legumes and Legume Products; Noodles, chinese, cellophane or long rice (mung beans), dehydrated; 16082
+buttered_bread_crumbs: Baked Products; Bread, white, commercially prepared (includes soft bread crumbs); 18069
+boneless_lamb: Lamb, Veal, and Game Products; Lamb, Australian, imported, fresh, leg, sirloin half, boneless, separable lean and fat, trimmed to 1/8" fat, raw; 17298
+barley_flour: Cereal Grains and Pasta; Barley flour or meal; 20130
+Special_K_cereal: Cereal Grains and Pasta; Rye grain; 20062
+unsweetened_orange_juice: Fruits and Fruit Juices; Apple juice, canned or bottled, unsweetened, without added ascorbic acid; 09016
+reduced_fat_graham_cracker_crust: Baked Products; Cookies, graham crackers, plain or honey (includes cinnamon); 18173
+instant_beef_bouillon: Soups, Sauces, and Gravies; Soup, beef broth or bouillon canned, ready-to-serve; 06008
+garlic_-_flavored_croutons: Baked Products; Croutons, plain; 18242
+dried_celery_flakes: Nut and Seed Products; Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged; 12109
+cooked_ground_beef: Beef Products; Beef, grass-fed, ground, raw; 13047
+cheese_slices: Dairy and Egg Products; Cheese, cheddar, sharp, sliced; 01270
+cheese_crackers: Baked Products; Crackers, cheese, regular; 18214
+butterfinger_candy_bars: Sweets; Candies, ALMOND JOY Candy Bar; 19065
+Hersheys_Chocolate_Syrup: Sweets; Candies, HERSHEY'S MILK CHOCOLATE WITH ALMOND BITES; 19236
+yellow_potatoes: Vegetables and Vegetable Products; Potatoes, yellow fleshed, roasted, salt added in processing, frozen, unprepared; 31026
+oyster_crackers: Baked Products; Crackers, saltines (includes oyster, soda, soup); 18228
+dill_pickle_slices: Vegetables and Vegetable Products; Pickles, cucumber, dill or kosher dill; 11937
+curds: Dairy and Egg Products; Cheese, cottage, creamed, large or small curd; 01012
+soup: Soups, Sauces, and Gravies; Soup, cream of asparagus, canned, condensed; 06001
+pear_nectar: Fruits and Fruit Juices; Pear nectar, canned, without added ascorbic acid; 09262
+orange_roughy_fillets: Finfish and Shellfish Products; Fish, roughy, orange, raw; 15073
+mung_beans: Vegetables and Vegetable Products; Mung beans, mature seeds, sprouted, raw; 11043
+meatless_spaghetti_sauce: Restaurant Foods; Restaurant, Italian, spaghetti with pomodoro sauce (no meat); 36046
+light_chunk_tuna_in_water: Finfish and Shellfish Products; Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program); 15121
+grilled_chicken_breasts: Poultry Products; Chicken, broiler, rotisserie, BBQ, breast, meat only; 05000
+dried_orange_peel: Fruits and Fruit Juices; Oranges, raw, with peel; 09205
+Ritz_cracker_crumbs: Baked Products; Nabisco, Nabisco Ritz Crackers; 18621
+pork_belly: Pork Products; Pork, fresh, belly, raw; 10005
+miniature_peanut_butter_cups: Sweets; Candies, REESE'S Peanut Butter Cups; 19150
+fruit_preserves: Sweets; Jams, preserves, marmalades, sweetened with fruit juice; 19920
+coffee_creamer: Beverages; Beverages, coffee, instant, vanilla, sweetened, decaffeinated, with non dairy creamer; 14270
+chunk_pineapple: Fruits and Fruit Juices; Pineapple, frozen, chunks, sweetened; 09272
+beef_stock_cube: Beef Products; Beef, round, bottom round, steak, separable lean and fat, trimmed to 0" fat, all grades, cooked, braised; 13398
+beef_bones: Beef Products; Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8" fat, choice, raw; 13235
+snow_pea_pods: Vegetables and Vegetable Products; Peas, edible-podded, raw; 11300
+reduced_-_fat_Mexican_cheese_blend: Dairy and Egg Products; Cheese, Mexican, blend, reduced fat; 01209
+liquor: Beverages; Beverages, Malt liquor beverage; 14252
+fresh_salmon: Finfish and Shellfish Products; Fish, salmon, Atlantic, wild, raw; 15076
+canned_pinto_beans: Legumes and Legume Products; Beans, adzuki, mature seeds, canned, sweetened; 16003
+trout: Finfish and Shellfish Products; Fish, trout, mixed species, raw; 15114
+tangerine_juice: Fruits and Fruit Juices; Tangerines, (mandarin oranges), canned, juice pack; 09219
+prime_rib_roast: Beef Products; Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 0" fat, choice, cooked, roasted; 13386
+powdered_saffron: Spices and Herbs; Spices, saffron; 02037
+powdered_coffee_creamer: Beverages; Beverages, coffee, instant, regular, powder; 14214
+mixed_fresh_herbs: Finfish and Shellfish Products; Fish, bass, fresh water, mixed species, raw; 15003
+frozen_pound_cake: Baked Products; Cake, pound, commercially prepared, butter (includes fresh and frozen); 18120
+drippings: Pork Products; Pork, bacon, rendered fat, cooked; 10864
+cracked_wheat: Baked Products; Bread, cracked-wheat; 18025
+turkey_cutlets: Lamb, Veal, and Game Products; Veal, leg, top round, cap off, cutlet, boneless, cooked, grilled; 17425
+straw_mushrooms: Vegetables and Vegetable Products; Mushrooms, straw, canned, drained solids; 11989
+seeds: Legumes and Legume Products; Beans, adzuki, mature seeds, raw; 16001
+multigrain_bread: Baked Products; Bread, multi-grain, toasted (includes whole-grain); 18036
+muesli: Breakfast Cereals; Cereals ready-to-eat, ALPEN; 43218
+full_-_fat_milk: Dairy and Egg Products; Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D; 01079
+country_ham: Breakfast Cereals; Cereals, QUAKER, Instant Grits, Redeye Gravy & Country Ham flavor, dry; 08444
+coconut_water: Nut and Seed Products; Nuts, coconut milk, raw (liquid expressed from grated meat and water); 12117
+chanterelle_mushrooms: Vegetables and Vegetable Products; Mushrooms, Chanterelle, raw; 11239
+tuna_fish: Finfish and Shellfish Products; Fish, tuna, fresh, bluefin, raw; 15117
+sweet_marsala_wine: Beverages; Alcoholic beverage, wine, dessert, sweet; 14057
+mint_chocolate_chips: Baked Products; Cookies, chocolate chip, commercially prepared, regular, lower fat; 18158
+ground_buffalo_meat: Beef Products; Beef, ground, 70% lean meat / 30% fat, crumbles, cooked, pan-browned; 13494
+dry_rub_seasonings: Spices and Herbs; Seasoning mix, dry, sazon, coriander & annatto; 02074
+coleslaw_dressing: Fats and Oils; Salad Dressing, coleslaw, reduced fat; 42230
+cacao: Sweets; Chocolate, dark, 45- 59% cacao solids; 19902
+boneless_lamb_shoulder: Lamb, Veal, and Game Products; Lamb, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4" fat, choice, raw; 17035
+angel_flake_coconut: Nut and Seed Products; Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged; 12109
+yellow_sweet_onion: Vegetables and Vegetable Products; Corn, sweet, yellow, raw; 11167
+wheat: Baked Products; Bread, cracked-wheat; 18025
+small_capers: Spices and Herbs; Capers, canned; 02054
+frozen_sweet_peas: Vegetables and Vegetable Products; Corn, sweet, yellow, frozen, kernels cut off cob, unprepared (Includes foods for USDA's Food Distribution Program); 11178
+chocolate_pudding: Sweets; Puddings, chocolate, dry mix, instant, prepared with 2% milk; 19123
+center_-_cut_bacon: Beef Products; Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean only, trimmed to 0" fat, all grades, cooked, grilled; 13351
+candies: Sweets; Candies, TOBLERONE, milk chocolate with honey and almond nougat; 19001
+blackening_seasoning: Beverages; Alcoholic beverage, beer, regular, all; 14003
+Kraft_macaroni_and_cheese: Restaurant Foods; APPLEBEE'S, KRAFT, Macaroni & Cheese, from kid's menu; 36003
+sugar_-_free_strawberry_gelatin: Sweets; Ice creams, BREYERS, No Sugar Added, Vanilla Chocolate Strawberry; 19884
+low_-_fat_Greek_yogurt: Dairy and Egg Products; Yogurt, Greek, 2% fat, apricot, CHOBANI; 01064
+israeli_couscous: Beverages; Alcoholic beverage, beer, regular, all; 14003
+honey_roasted_peanuts: Nut and Seed Products; Nuts, mixed nuts, dry roasted, with peanuts, without salt added; 12135
+ham_slices: Pork Products; Pork, cured, ham, center slice, country-style, separable lean only, raw; 10141
+fudge_cake_mix: Baked Products; Cake, angelfood, dry mix, prepared; 18088
+frozen_sweet_corn: Vegetables and Vegetable Products; Corn, sweet, yellow, raw; 11167
+broccoli_stems: Vegetables and Vegetable Products; Broccoli, raw; 11090
+sirloin_tip_roast: Beef Products; Beef, round, tip round, roast, separable lean and fat, trimmed to 0" fat, all grades, cooked, roasted; 13421
+oil_-_cured_black_olives: Fats and Oils; Oil, olive, salad or cooking; 04053
+mustard_oil: Fats and Oils; Oil, mustard; 04583
+kumquats: Fruits and Fruit Juices; Kumquats, raw; 09149
+gluten_free_baking_powder: Baked Products; Van's, The Perfect 10, Crispy Six Whole Grain + Four Seed Baked Crackers, Gluten Free; 28376
+cooked_jasmine_rice: Cereal Grains and Pasta; Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program); 20037
+brewed_tea: Beverages; Beverages, tea, Oolong, brewed; 14185
+ravioli: Meals, Entrees, and Side Dishes; Ravioli, cheese-filled, canned; 22899
+passion_fruit_pulp: Fruits and Fruit Juices; Passion-fruit, (granadilla), purple, raw; 09231
+medium_grain_rice: Cereal Grains and Pasta; Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program); 20036
+fried_onions: Vegetables and Vegetable Products; Onion rings, breaded, par fried, frozen, unprepared; 11295
+Kraft_Grated_Parmesan_Cheese: Dairy and Egg Products; Cheese, parmesan, grated; 01032
+mortadella: Sausages and Luncheon Meats; Mortadella, beef, pork; 07050
+fresh_apricots: Fruits and Fruit Juices; Apricots, raw; 09021
+cooked_lobster_meat: Poultry Products; Chicken, broilers or fryers, meat and skin and giblets and neck, cooked, fried, batter; 05002
+cooked_broccoli: Vegetables and Vegetable Products; Broccoli, cooked, boiled, drained, without salt; 11091
+Tabasco_jalapeno_sauce: Soups, Sauces, and Gravies; Sauce, ready-to-serve, pepper, TABASCO; 06169
+mixed_sprouts: Vegetables and Vegetable Products; Alfalfa seeds, sprouted, raw; 11001
+honey_-_roasted_ham: Sausages and Luncheon Meats; Ham, honey, smoked, cooked; 07938
+hemp_seeds: Nut and Seed Products; Seeds, hemp seed, hulled; 12012
+frozen_sweetened_strawberries: Fruits and Fruit Juices; Apricots, frozen, sweetened; 09035
+fresh_chervil: Spices and Herbs; Spices, chervil, dried; 02008
+endive: Vegetables and Vegetable Products; Endive, raw; 11213
+deviled_ham: Pork Products; Pork, fresh, leg (ham), whole, separable lean and fat, raw; 10008
+chocolate_chip_cookies: Baked Products; Cookies, chocolate wafers; 18157
+carrot_juice: Baby Foods; Babyfood, juice, orange-carrot; 42267
+blood_orange_juice: Fruits and Fruit Juices; Orange juice, raw (Includes foods for USDA's Food Distribution Program); 09206
+soup_mix: Soups, Sauces, and Gravies; Soup, onion, dry, mix; 06094
+lebanese_cucumber: Vegetables and Vegetable Products; Cucumber, with peel, raw; 11205
+gumdrops: Sweets; Candies, gumdrops, starch jelly pieces; 19106
+canned_beef_broth: Soups, Sauces, and Gravies; Soup, beef broth or bouillon canned, ready-to-serve; 06008
+broad_beans: Legumes and Legume Products; Beans, adzuki, mature seeds, raw; 16001
+table_cream: Dairy and Egg Products; Cream, fluid, light (coffee cream or table cream); 01050
+morels: Vegetables and Vegetable Products; Mushrooms, morel, raw; 11240
+frozen_non_-_dairy_topping: Fats and Oils; Oil, industrial, palm kernel (hydrogenated) , used for whipped toppings, non-dairy; 04660
+dried_coconut: Nut and Seed Products; Nuts, coconut meat, dried (desiccated), not sweetened; 12108
+cooked_couscous: Cereal Grains and Pasta; Couscous, cooked; 20029
+chocolate_-_covered_english_toffee_bars: Snacks; Snacks, crisped rice bar, chocolate chip; 19010
+semisweet_vegan_chocolate_chips: Baked Products; Cookies, chocolate chip, commercially prepared, regular, lower fat; 18158
+rose_wine: Beverages; Alcoholic beverages, wine, rose; 14253
+pork_loin_chops_with_bone: Pork Products; Pork, fresh, loin, blade (chops or roasts), bone-in, separable lean and fat, raw; 10028
+peach_juice: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, juice pack, solids and liquids; 09097
+ground_celery_seed: Spices and Herbs; Spices, celery seed; 02007
+brine: Vegetables and Vegetable Products; Corn, sweet, yellow, canned, brine pack, regular pack, solids and liquids; 11170
+beef_t_-_bone_steaks: Beef Products; Beef, grass-fed, strip steaks, lean only, raw; 13000
+turkey_breast_tenderloins: Poultry Products; Turkey, all classes, breast, meat and skin, raw; 05191
+smoked_ham_hocks: Sausages and Luncheon Meats; Ham, honey, smoked, cooked; 07938
+red_raspberries: Fruits and Fruit Juices; Raspberries, canned, red, heavy syrup pack, solids and liquids; 09304
+pizza_seasoning: Fast Foods; School Lunch, pizza, BIG DADDY'S LS 16" 51% Whole Grain Rolled Edge Cheese Pizza, frozen; 21145
+frozen_cherries: Fruits and Fruit Juices; Cherries, sour, red, frozen, unsweetened (Includes foods for USDA's Food Distribution Program); 09068
+farina: Breakfast Cereals; Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), dry; 08104
+chuck: Beef Products; Beef, chuck, under blade pot roast, boneless, separable lean only, trimmed to 0" fat, all grades, cooked, braised; 13285
+chicken_leg_quarters: Poultry Products; Chicken, broilers or fryers, leg, meat and skin, raw; 05075
+yellow_hominy: Cereal Grains and Pasta; Hominy, canned, yellow; 20330
+salt_cod_fish: Finfish and Shellfish Products; Fish, cod, Atlantic, raw; 15015
+quinoa_flour: Cereal Grains and Pasta; Pasta, gluten-free, corn flour and quinoa flour, cooked, ANCIENT HARVEST; 20655
+peanut_sauce: Soups, Sauces, and Gravies; Sauce, peanut, made from coconut, water, sugar, peanuts; 06618
+lamb_stew_meat: Poultry Products; Chicken, broilers or fryers, meat and skin and giblets and neck, stewed; 05005
+frozen_raspberries_in_light_syrup: Fruits and Fruit Juices; Raspberries, canned, red, heavy syrup pack, solids and liquids; 09304
+fresh_pears: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids; 09096
+fermented_black_beans: Legumes and Legume Products; Beans, black, mature seeds, raw; 16014
+egg_bread: Baked Products; Bread, cornbread, dry mix, prepared with 2% milk, 80% margarine, and eggs; 18023
+edam_cheese: Dairy and Egg Products; Cheese, edam; 01018
+chicken_legs_with_thigh: Poultry Products; Chicken, broilers or fryers, leg, meat and skin, raw; 05075
+boneless_beef_cubes: Beef Products; Beef, chuck, under blade pot roast, boneless, separable lean only, trimmed to 0" fat, all grades, cooked, braised; 13285
+baby_lima_beans: Vegetables and Vegetable Products; Lima beans, immature seeds, raw; 11031
+pork_fat: Pork Products; Pork, fresh, composite of separable fat, with added solution, cooked; 10000
+melon: Fruits and Fruit Juices; Melons, cantaloupe, raw; 09181
+instant_chocolate_drink_mix: Beverages; Beverages, Malted drink mix, chocolate, with added nutrients, powder, prepared with whole milk; 14316
+instant_banana_pudding_mix: Sweets; Puddings, banana, dry mix, instant, prepared with 2% milk; 19121
+gluten_flour: Baked Products; Bread, gluten-free, white, made with potato extract, rice starch, and rice flour; 28336
+country_-_style_boneless_pork_ribs: Pork Products; Pork, fresh, loin, country-style ribs, separable lean and fat, raw; 10204
+black_vinegar: Spices and Herbs; Vinegar, cider; 02048
+stewing_chicken: Poultry Products; Chicken, broilers or fryers, meat and skin and giblets and neck, stewed; 05005
+ribs: Beef Products; Beef, rib, eye, small end (ribs 10-12), separable lean and fat, trimmed to 0" fat, choice, raw; 13095
+pork_mince: Sausages and Luncheon Meats; Luncheon meat, pork, ham, and chicken, minced, canned, reduced sodium, added ascorbic acid, includes SPAM, 25% less sodium; 07906
+horseradish_mustard: Vegetables and Vegetable Products; Mustard greens, raw; 11270
+hing: Beverages; Alcoholic beverage, beer, regular, all; 14003
+green_chili_sauce: Vegetables and Vegetable Products; Peppers, hot chili, green, canned, pods, excluding seeds, solids and liquids; 11329
+coconut_sugar_crystals: Soups, Sauces, and Gravies; Sauce, peanut, made from coconut, water, sugar, peanuts; 06618
+chocolate_protein_powder: Beverages; Beverages, ABBOTT, EAS whey protein powder; 14033
+chips: Snacks; Snacks, corn-based, extruded, chips, plain; 19003
+yellow_rice: Meals, Entrees, and Side Dishes; Yellow rice with seasoning, dry packet mix, unprepared; 32011
+sun_-_dried_tomato_paste: Vegetables and Vegetable Products; Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program); 11546
+smooth_cashew_butter: Legumes and Legume Products; Peanut butter, smooth style, with salt (Includes foods for USDA's Food Distribution Program); 16098
+salt_water: Breakfast Cereals; Cereals, corn grits, white, regular and quick, enriched, cooked with water, without salt; 08091
+pigeon_peas: Legumes and Legume Products; Pigeon peas (red gram), mature seeds, raw; 16101
+instant_tea: Beverages; Beverages, tea, green, instant, decaffeinated, lemon, unsweetened, fortified with vitamin C; 14246
+cream_cheese_with_chives: Dairy and Egg Products; Cheese, cottage, creamed, large or small curd; 01012
+buckwheat_groats: Cereal Grains and Pasta; Buckwheat groats, roasted, dry; 20009
+anise: Spices and Herbs; Spices, anise seed; 02002
+veal_shanks: Lamb, Veal, and Game Products; Veal, shank (fore and hind), separable lean and fat, raw; 17276
+pomegranates: Fruits and Fruit Juices; Pomegranates, raw; 09286
+brown_bread: Baked Products; Bread, boston brown, canned; 18021
+boneless_ham: Pork Products; Pork, cured, ham, boneless, extra lean (approximately 5% fat), roasted; 10134
+sweet_white_wine: Vegetables and Vegetable Products; Corn, sweet, white, raw; 11900
+light_soya_sauce: Meals, Entrees, and Side Dishes; Ravioli, cheese with tomato sauce, frozen, not prepared, includes regular and light entrees; 22976
+lean_lamb: Lamb, Veal, and Game Products; Lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4" fat, choice, raw; 17001
+hot_cocoa: Beverages; Beverages, Cocoa mix, powder; 14192
+green_tea_powder: Beverages; Beverages, tea, green, ready to drink, ginseng and honey, sweetened; 14188
+fryer: Poultry Products; Chicken, broilers or fryers, meat and skin and giblets and neck, raw; 05001
+cane_syrup: Sweets; Syrup, Cane; 90480
+wakame_seaweed: Vegetables and Vegetable Products; Seaweed, wakame, raw; 11669
+quail: Poultry Products; Quail, meat and skin, raw; 05157
+lemon_pie_filling: Sweets; Pie fillings, apple, canned; 19312
+hazelnut_oil: Fats and Oils; Oil, hazelnut; 04532
+dry_bread_cubes: Baked Products; Bread, cornbread, dry mix, enriched (includes corn muffin mix); 18022
+Red_Bliss_potatoes: Vegetables and Vegetable Products; Potatoes, red, flesh and skin, raw; 11355
+sweetened_whipped_cream: Dairy and Egg Products; Cream, fluid, light whipping; 01052
+strawberry_syrup: Fruits and Fruit Juices; Strawberries, canned, heavy syrup pack, solids and liquids; 09317
+sea_bass: Finfish and Shellfish Products; Fish, sea bass, mixed species, raw; 15091
+millet_flour: Cereal Grains and Pasta; Millet flour; 20647
+kohlrabi: Vegetables and Vegetable Products; Kohlrabi, raw; 11241
+graham_flour: Baked Products; Cookies, graham crackers, plain or honey (includes cinnamon); 18173
+frozen_fruit: Beverages; Beverages, citrus fruit juice drink, frozen concentrate; 14262
+almond_oil: Nut and Seed Products; Nuts, almonds, oil roasted, without salt added; 12065
+passion_fruit_juice: Beverages; Beverages, Mixed vegetable and fruit juice drink, with added nutrients; 14119
+longhorn_cheese: Dairy and Egg Products; Cheese, blue; 01004
+grilled_chicken: Fast Foods; WENDY'S, Ultimate Chicken Grill Sandwich; 21245
+dried_chipotle_chiles: Vegetables and Vegetable Products; Peppers, hot chile, sun-dried; 11962
+bay_leaf_powder: Spices and Herbs; Spices, bay leaf; 02004
+taco_cheese: Fast Foods; Fast foods, taco with beef, cheese and lettuce, hard shell; 21082
+sardines: Finfish and Shellfish Products; Fish, sardine, Atlantic, canned in oil, drained solids with bone; 15088
+matzos: Baked Products; Crackers, matzo, plain; 18217
+mango_puree: Fruits and Fruit Juices; Mangos, raw; 09176
+fat_free_ranch_dressing: Fats and Oils; Salad dressing, KRAFT Mayo Fat Free Mayonnaise Dressing; 04013
+chayotes: Vegetables and Vegetable Products; Chayote, fruit, raw; 11149
+beef_cube_steaks: Beef Products; Beef, grass-fed, strip steaks, lean only, raw; 13000
+unsalted_shelled_pistachios: Nut and Seed Products; Nuts, mixed nuts, dry roasted, with peanuts, salt added, PLANTERS pistachio blend; 12136
+tamales: Restaurant Foods; Restaurant, Mexican, cheese tamales; 36056
+refried_black_beans: Legumes and Legume Products; Beans, black, mature seeds, raw; 16014
+malted_milk_balls: Beverages; Beverages, chocolate malt, powder, prepared with fat free milk; 14083
+key_limes: Dairy and Egg Products; Yogurt, Greek, 2% fat, key lime blend, CHOBANI; 01158
+frozen_fat_-_free_whipped_topping: Dairy and Egg Products; Reddi Wip Fat Free Whipped Topping; 01200
+frozen_cranberry_juice_concentrate: Fruits and Fruit Juices; Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid; 09017
+tostadas: Baked Products; Tostada shells, corn; 18952
+steamed_rice: Cereal Grains and Pasta; Rice, white, steamed, Chinese restaurant; 20058
+serrano_chili_peppers: Vegetables and Vegetable Products; Peppers, hot chili, green, canned, pods, excluding seeds, solids and liquids; 11329
+roasted_pistachios: Nut and Seed Products; Nuts, mixed nuts, dry roasted, with peanuts, salt added, PLANTERS pistachio blend; 12136
+olive_juice: Fruits and Fruit Juices; Acerola juice, raw; 09002
+instant_couscous: Beverages; Alcoholic beverage, beer, regular, all; 14003
+enoki_mushrooms: Vegetables and Vegetable Products; Mushrooms, enoki, raw; 11950
+crushed_pineapple_in_syrup: Fruits and Fruit Juices; Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, extra light syrup, solids and liquids; 09098
+cookie_crumbs: Baked Products; Nabisco, Nabisco Oreo Crunchies, Cookie Crumb Topping; 18619
+cooked_sausage: Sausages and Luncheon Meats; Pork sausage, link/patty, cooked, pan-fried; 07064
+catfish: Finfish and Shellfish Products; Fish, catfish, channel, wild, raw; 15010
+bottled_chili_sauce: Soups, Sauces, and Gravies; Sauce, peppers, hot, chili, mature red, canned; 06961
+boston_butt: Pork Products; Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat, raw; 10080
+bone_-_in_ham: Pork Products; Pork, cured, ham -- water added, rump, bone-in, separable lean only, heated, roasted; 10865
+Rose's_lime_juice: Fruits and Fruit Juices; Lime juice, raw; 09160
+white_frosting: Baked Products; Cake, white, prepared from recipe with coconut frosting; 18102
+turnip_greens: Vegetables and Vegetable Products; Turnip greens, raw; 11568
+orange_soda: Beverages; Beverages, carbonated, orange; 14150
+evaporated_low_-_fat_milk: Dairy and Egg Products; Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D; 01079
+epazote: Vegetables and Vegetable Products; Epazote, raw; 11984
+chicken_fat: Sausages and Luncheon Meats; Chicken breast, fat-free, mesquite flavor, sliced; 07932
+beef_ribs: Beef Products; Beef, rib, eye, small end (ribs 10-12), separable lean and fat, trimmed to 0" fat, choice, raw; 13095
+Spanish_rice: Meals, Entrees, and Side Dishes; Spanish rice mix, dry mix, unprepared; 32018
+Japanese_-_style_bread_crumbs: Baked Products; Bread, white, commercially prepared (includes soft bread crumbs); 18069
+naan_bread: Baked Products; Bread, naan, whole wheat, commercially prepared, refrigerated; 28287
+quinces: Fruits and Fruit Juices; Quinces, raw; 09296
+mochiko_sweet_rice_flour: Baked Products; Pan Dulce, La Ricura, Salpora de Arroz con Azucar, cookie-like, contains wheat flour and rice flour; 18958
+low_-_fat_vanilla_ice_cream: Sweets; Ice creams, vanilla, fat free; 19867
+tartar_sauce: Fast Foods; Fast foods, fish sandwich, with tartar sauce; 21105
+stone_-_ground_yellow_cornmeal: Nut and Seed Products; Seeds, sesame butter, tahini, from raw and stone ground kernels; 12198
+veggie_burgers: Legumes and Legume Products; Veggie burgers or soyburgers, unprepared; 16147
+shoulder_lamb_chops: Lamb, Veal, and Game Products; Lamb, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4" fat, choice, raw; 17035
+raspberry_flavored_syrup: Sweets; Syrup, fruit flavored; 19030
+queso_blanco: Dairy and Egg Products; Cheese, white, queso blanco; 01229
+hamburger_patties: Beef Products; Beef, ground, patties, frozen, cooked, broiled; 13317
+chocolate_cookies: Baked Products; Cookies, chocolate wafers; 18157
+black_cherries: Legumes and Legume Products; SILK Black Cherry soy yogurt; 16256
+tonic_water: Beverages; Beverages, carbonated, tonic water; 14155
+sponge_cakes: Baked Products; Cake, snack cakes, creme-filled, sponge; 18128
+poppy_seed_dressing: Spices and Herbs; Spices, poppy seed; 02033
+pink_beans: Legumes and Legume Products; Beans, pink, mature seeds, raw; 16040
+garlic_chives: Vegetables and Vegetable Products; Chives, raw; 11156
+fresh_edible_flowers: Vegetables and Vegetable Products; Gourd, white-flowered (calabash), raw; 11218
+cream_soda: Beverages; Carbonated beverage, cream soda; 14130
+boiling_onions: Vegetables and Vegetable Products; Onions, cooked, boiled, drained, without salt; 11283
+black_caviar: Finfish and Shellfish Products; Fish, caviar, black and red, granular; 15012
+mixed_peppercorns: Fats and Oils; Salad dressing, peppercorn dressing, commercial, regular; 42137
+key_lime_zest: Dairy and Egg Products; Yogurt, Greek, 2% fat, key lime blend, CHOBANI; 01158
+graham_cracker_crumb_crust: Baked Products; Pie crust, cookie-type, prepared from recipe, graham cracker, chilled; 18399
+dried_arbol_chiles: Vegetables and Vegetable Products; Peppers, hot chile, sun-dried; 11962
+adzuki_beans: Legumes and Legume Products; Beans, adzuki, mature seeds, raw; 16001
+yellow_cherry_tomatoes: Fruits and Fruit Juices; Nance, canned, syrup, drained; 09448
+turkey_wings: Poultry Products; Turkey, all classes, wing, meat and skin, raw; 05195
+garlic_bread: Baked Products; Garlic bread, frozen; 18963
+canned_white_beans: Legumes and Legume Products; Beans, adzuki, mature seeds, canned, sweetened; 16003
+zinfandel: Beverages; Alcoholic Beverage, wine, table, red, Zinfandel; 14102
+vegetarian_worcestershire_sauce: Soups, Sauces, and Gravies; Sauce, worcestershire; 06971
+red_onion_rings: Restaurant Foods; APPLEBEE'S, crunchy onion rings; 36022
+red_miso: Legumes and Legume Products; Miso; 16112
+lean_ground_chicken: Beef Products; Beef, ground, 70% lean meat / 30% fat, crumbles, cooked, pan-browned; 13494
+custard: Sweets; Desserts, flan, caramel custard, prepared-from-recipe; 19094
+bread_and_butter_pickles: Vegetables and Vegetable Products; Pickles, cucumber, sweet (includes bread and butter pickles); 11940
+Chinese_sausage: Sausages and Luncheon Meats; Sausage, Berliner, pork, beef; 07004
+pearl_tapioca: Cereal Grains and Pasta; Tapioca, pearl, dry; 20068
+curly_endive_lettuce: Fast Foods; Fast foods, taco with beef, cheese and lettuce, hard shell; 21082
+cookie_dough: Baked Products; Cookies, chocolate chip, refrigerated dough; 18163
+French_bread_cubes: Baked Products; Bread, french or vienna (includes sourdough); 18029
+sole: Finfish and Shellfish Products; Fish, flatfish (flounder and sole species), raw; 15028
+minced_chicken: Sausages and Luncheon Meats; Luncheon meat, pork, ham, and chicken, minced, canned, reduced sodium, added ascorbic acid, includes SPAM, 25% less sodium; 07906
+hard_alcoholic_cider: Beverages; Alcoholic beverage, malt beer, hard lemonade; 14239
+Reese's_pieces: Sweets; Candies, REESE'S PIECES Candy; 19151
+Greek_salad_dressing: Fats and Oils; Salad dressing, KRAFT Mayo Light Mayonnaise; 04011
+iceberg_lettuce_leaves: Vegetables and Vegetable Products; Lettuce, iceberg (includes crisphead types), raw; 11252
+guava_nectar: Fruits and Fruit Juices; Guava nectar, canned, with added ascorbic acid; 09435
+grilled_chicken_breast_strips: Poultry Products; Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, grilled; 05747
+green_asparagus: Vegetables and Vegetable Products; Asparagus, raw; 11011
+candy_covered_plain_chocolate_candies: Sweets; Candies, NESTLE, GOOBERS Chocolate Covered Peanuts; 19105
+bottom_round_steaks: Beef Products; Beef, round, bottom round, steak, separable lean and fat, trimmed to 0" fat, all grades, cooked, braised; 13398
+roast_pork: Pork Products; Pork, fresh, leg (ham), whole, separable lean and fat, cooked, roasted; 10009
+reduced_-_fat_vanilla_wafers: Baked Products; Cookies, vanilla wafers, lower fat; 18212
+jerusalem_artichokes: Vegetables and Vegetable Products; Jerusalem-artichokes, raw; 11226
+cracker_meal: Baked Products; Cracker, meal; 18236
+chocolate_-_covered_coffee_beans: Sweets; Candies, dark chocolate coated coffee beans; 19268
+boneless_turkey_breast: Poultry Products; Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw; 05062
+orange_food_coloring: Fruits and Fruit Juices; Oranges, raw, navels (Includes foods for USDA's Food Distribution Program); 09202
+onion_rings: Restaurant Foods; APPLEBEE'S, crunchy onion rings; 36022
+multi_-_grain_bread: Baked Products; Bread, multi-grain, toasted (includes whole-grain); 18036
+lightly_-_salted_butter: Fats and Oils; Butter, light, stick, with salt; 04601
+kefir: Dairy and Egg Products; Kefir, lowfat, plain, LIFEWAY; 01289
+flounder: Finfish and Shellfish Products; Fish, flatfish (flounder and sole species), raw; 15028
+chicken_gizzards: Poultry Products; Chicken, gizzard, all classes, raw; 05023
+brown_rice_vinegar: Snacks; Snacks, rice cracker brown rice, plain; 19051
+black_currants: Fruits and Fruit Juices; Currants, european black, raw; 09083
+beef_shank: Beef Products; Beef, shank crosscuts, separable lean only, trimmed to 1/4" fat, choice, raw; 13227
+shredded_wheat_cereal: Breakfast Cereals; Cereals ready-to-eat, QUAKER, 100% Natural Granola, Oats, Wheat and Honey; 08054
+roasted_turkey: Poultry Products; Turkey, whole, meat and skin, cooked, roasted; 05166
+refrigerated_pie_dough: Baked Products; Biscuits, plain or buttermilk, refrigerated dough, lower fat; 18012
+pickled_beets: Vegetables and Vegetable Products; Beets, pickled, canned, solids and liquids; 11609
+flat_iron_steaks: Beef Products; Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0" fat, choice, raw; 23041
+dandelion_greens: Vegetables and Vegetable Products; Dandelion greens, raw; 11207
+red_plums: Fruits and Fruit Juices; Carissa, (natal-plum), raw; 09061
+goose: Poultry Products; Canada Goose, breast meat only, skinless, raw; 05111
+dungeness_crabs: Finfish and Shellfish Products; Crustaceans, crab, dungeness, raw; 15143
+banana_chips: Snacks; Snacks, banana chips; 19400
+swordfish: Finfish and Shellfish Products; Fish, swordfish, raw; 15110
+short_-_grain_brown_rice: Cereal Grains and Pasta; Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program); 20036
+sesame_dressing: Fats and Oils; Salad dressing, sesame seed dressing, regular; 04016
+fresh_tuna: Finfish and Shellfish Products; Fish, tuna, fresh, bluefin, raw; 15117
+distilled_water: Beverages; Beverages, tea, black, brewed, prepared with distilled water; 14544
+powdered_drink_mix: Beverages; Beverages, Whiskey sour mix, powder; 14024
+persimmons: Fruits and Fruit Juices; Persimmons, japanese, raw; 09263
+oil_-_cured_olives: Fats and Oils; Oil, olive, salad or cooking; 04053
+melba_toast: Baked Products; Crackers, melba toast, plain; 18220
+candy_bars: Sweets; Candies, ALMOND JOY Candy Bar; 19065
+sorghum: Cereal Grains and Pasta; Sorghum grain; 20067
+sesame_paste: Nut and Seed Products; Seeds, sesame butter, paste; 12169
+lamb_rib_chops: Lamb, Veal, and Game Products; Lamb, rib, separable lean and fat, trimmed to 1/4" fat, choice, raw; 17029
+amaranth: Vegetables and Vegetable Products; Amaranth leaves, raw; 11003
+whole_trout: Finfish and Shellfish Products; Fish, trout, mixed species, raw; 15114
+waffles: Baked Products; Waffles, plain, frozen, ready-to-heat; 18365
+veal_chops: Lamb, Veal, and Game Products; Veal, shoulder, blade chop, separable lean and fat, raw; 17128
+porterhouse_steaks: Beef Products; Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8" fat, choice, raw; 13231
+pork_rib_chops: Pork Products; Pork, fresh, loin, blade (chops or roasts), bone-in, separable lean and fat, raw; 10028
+plain_sweet_biscuit_crumbs: Baked Products; Biscuits, plain or buttermilk, frozen, baked; 18009
+frozen_mango_chunks: Fruits and Fruit Juices; Pineapple, frozen, chunks, sweetened; 09272
+buffalo: Lamb, Veal, and Game Products; Bison, ground, grass-fed, cooked; 17148
+breadsticks: Fast Foods; Fast foods, breadstick, soft, prepared with garlic and parmesan cheese; 21520
+Kraft_Shredded_Mozzarella_Cheese: Dairy and Egg Products; Cheese, mozzarella, low moisture, part-skim, shredded; 01271
+unsweetened_vanilla_almond_milk: Beverages; Beverages, almond milk, sweetened, vanilla flavor, ready-to-drink; 14016
+lettuce_leaf: Vegetables and Vegetable Products; Lettuce, green leaf, raw; 11253
+dipping_chocolate: Sweets; Candies, TOBLERONE, milk chocolate with honey and almond nougat; 19001
+chocolate_cake: Baked Products; Cake, cherry fudge with chocolate frosting; 18095
+canned_vegetable_broth: Soups, Sauces, and Gravies; Soup, beef broth or bouillon canned, ready-to-serve; 06008
+canned_mandarin_oranges: Fruits and Fruit Juices; Cranberry-orange relish, canned; 09082
+white_asparagus: Vegetables and Vegetable Products; Asparagus, raw; 11011
+tri_-_tip_steak: Beef Products; Beef, loin, bottom sirloin butt, tri-tip steak, separable lean and fat, trimmed to 0" fat, all grades, cooked, broiled; 23545
+smoked_trout: Finfish and Shellfish Products; Fish, trout, mixed species, raw; 15114
+tripe: Beef Products; Beef, variety meats and by-products, tripe, raw; 13341
+soup_stock: Soups, Sauces, and Gravies; Soup, mushroom with beef stock, canned, condensed; 06044
+long_beans: Legumes and Legume Products; Noodles, chinese, cellophane or long rice (mung beans), dehydrated; 16082
+jelly_beans: Legumes and Legume Products; Beans, adzuki, mature seeds, raw; 16001
+golden_beets: Vegetables and Vegetable Products; Beets, raw; 11080
+octopus: Finfish and Shellfish Products; Mollusks, octopus, common, raw; 15166
+malt_drink_powder: Beverages; Beverages, chocolate malt, powder, prepared with fat free milk; 14083
+dried_kasha: Cereal Grains and Pasta; Buckwheat groats, roasted, dry; 20009
+meal: Breakfast Cereals; Cereals ready-to-eat, MALT-O-MEAL, CORN BURSTS; 08083
+live_lobsters: Finfish and Shellfish Products; Crustaceans, lobster, northern, raw; 15147
+ice_cream_cones: Sweets; Ice creams, vanilla, light; 19088
+goji_berries: Fruits and Fruit Juices; Goji berries, dried; 09110
+unsweetened_flavored_drink_mix: Beverages; Beverages, drink mix, QUAKER OATS, GATORADE, orange flavor, powder; 14450
+sherbet: Sweets; Sherbet, orange; 19097
+peppermint: Spices and Herbs; Peppermint, fresh; 02064
+low_-_fat_strawberry_yogurt: Fast Foods; Fast foods, strawberry banana smoothie made with ice and low-fat yogurt; 21521
+light_cream_cheese_spread: Dairy and Egg Products; Cheese spread, cream cheese base; 43276
+goat_meat: Lamb, Veal, and Game Products; Game meat, goat, raw; 17168
+frozen_waffles: Baked Products; Waffles, plain, frozen, ready-to-heat; 18365
+dumplings: Baby Foods; Babyfood, dinner, vegetables and dumplings and beef, strained; 03041
+cocoa_butter: Fats and Oils; Oil, cocoa butter; 04501
+brownies: Baked Products; Cookies, brownies, commercially prepared; 18151
+herb_salad_dressing: Fats and Oils; Salad dressing, KRAFT Mayo Light Mayonnaise; 04011
+hen: Poultry Products; Guinea hen, meat and skin, raw; 05151
+grouper: Finfish and Shellfish Products; Fish, grouper, mixed species, raw; 15031
+glaze: Baked Products; Doughnuts, cake-type, plain, sugared or glazed; 18250
+caviar: Finfish and Shellfish Products; Fish, caviar, black and red, granular; 15012
+mackerel: Finfish and Shellfish Products; Fish, mackerel, Atlantic, raw; 15046
+frozen_pizza_dough: Fast Foods; School Lunch, pizza, BIG DADDY'S LS 16" 51% Whole Grain Rolled Edge Cheese Pizza, frozen; 21145
+fresh_ahi_tuna: Finfish and Shellfish Products; Fish, tuna, fresh, bluefin, raw; 15117
+duck_legs: Poultry Products; Duck, young duckling, domesticated, White Pekin, leg, meat and skin, bone in, cooked, roasted; 05317
+Ragu_pizza_sauce: Soups, Sauces, and Gravies; Sauce, pizza, canned, ready-to-serve; 06152
+green_pepper_strips: Vegetables and Vegetable Products; Corn with red and green peppers, canned, solids and liquids; 11184
+cracked_ice: Sweets; Ice creams, vanilla, light; 19088
+burdock_root: Vegetables and Vegetable Products; Burdock root, raw; 11104
+Anjou_pear: Fruits and Fruit Juices; Pears, raw, red anjou; 09413
+truffles: Sweets; Candies, truffles, prepared-from-recipe; 19138
+pate: Sausages and Luncheon Meats; Pate, chicken liver, canned; 07053
+brine_-_cured_black_olives: Restaurant Foods; OLIVE GARDEN, lasagna classico; 36042
+black_rice: Restaurant Foods; Restaurant, Latino, Arroz con frijoles negros (rice and black beans); 36405
+baked_tofu: Legumes and Legume Products; Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari); 16126
+sun_-_dried_tomato_dressing: Beverages; Alcoholic beverage, beer, regular, all; 14003
+maytag_blue_cheese: Fats and Oils; Salad dressing, blue or roquefort cheese dressing, commercial, regular; 04539
+boysenberries: Fruits and Fruit Juices; Boysenberries, canned, heavy syrup; 09056
+somen_noodles: Cereal Grains and Pasta; Noodles, japanese, somen, dry; 20116
+pita_chips: Snacks; Snacks, pita chips, salted; 25037
+peppercorn_ranch_dressing: Fats and Oils; Salad dressing, ranch dressing, fat-free; 04638
+bean_paste: Dairy and Egg Products; Cheese, pasteurized process, American, fortified with vitamin D; 01042
+tenderloin: Beef Products; Beef, loin, tenderloin steak, boneless, separable lean and fat, trimmed to 0" fat, all grades, cooked, grilled; 13439
+radish_sprouts: Vegetables and Vegetable Products; Radish seeds, sprouted, raw; 11676
+quail_eggs: Dairy and Egg Products; Egg, quail, whole, fresh, raw; 01140
+meringues: Baked Products; Pie, lemon meringue, commercially prepared; 18320
+lemon_twist: Snacks; Snacks, corn-based, extruded, puffs or twists, cheese-flavor; 19008
+hard_candies: Sweets; Candies, hard; 19107
+cranberry_beans: Legumes and Legume Products; Beans, cranberry (roman), mature seeds, raw; 16019
+cheesecake: Baked Products; Cake, cheesecake, commercially prepared; 18147
+wraps: Fast Foods; Fast foods, crispy chicken in tortilla, with lettuce, cheese, and ranch sauce; 21517
+orange_drink_mix: Beverages; Beverages, Mixed vegetable and fruit juice drink, with added nutrients; 14119
+black_truffles: Sweets; Candies, truffles, prepared-from-recipe; 19138
+Asian_pear: Fruits and Fruit Juices; Pears, asian, raw; 09340
+sugar_cookies: Baked Products; Cookies, brownies, dry mix, sugar free; 18196
+batter: Poultry Products; Chicken, broilers or fryers, meat and skin and giblets and neck, cooked, fried, batter; 05002
+wheat_crackers: Baked Products; Crackers, matzo, whole-wheat; 18219
+vanilla_Greek_yogurt: Dairy and Egg Products; Yogurt, Greek, 2% fat, apricot, CHOBANI; 01064
+foie_gras: Poultry Products; Pate de foie gras, canned (goose liver pate), smoked; 05282
+dried_black_figs: Fruits and Fruit Juices; Figs, dried, uncooked; 09094
+pancakes: Baked Products; Pancakes plain, frozen, ready-to-heat (includes buttermilk); 18288
+balsamic_glaze: Baked Products; Doughnuts, cake-type, plain, sugared or glazed; 18250
+peanut_butter_sandwich_cookies: Baked Products; Cookies, peanut butter, commercially prepared, regular; 18185
+five_cheese_blend: Dairy and Egg Products; Cheese, Mexican, blend, reduced fat; 01209
+imitation_crab_sticks: Finfish and Shellfish Products; Crustaceans, crab, alaska king, imitation, made from surimi; 15138
+gray_salt: Vegetables and Vegetable Products; Amaranth leaves, cooked, boiled, drained, without salt; 11004
+striped_bass: Finfish and Shellfish Products; Fish, bass, striped, raw; 15004
+wafers: Baked Products; Cookies, chocolate wafers; 18157
+okara: Legumes and Legume Products; Okara; 16130
+mezcal: Beverages; Alcoholic beverage, beer, regular, all; 14003
+PHILADELPHIA_Neufchatel_Cheese: Dairy and Egg Products; Cheese, neufchatel; 01031
+green_salad: Fats and Oils; Salad dressing, green goddess, regular; 43017
+fruit_snacks: Snacks; Snacks, GENERAL MILLS, BETTY CROCKER Fruit Roll Ups, berry flavored, with vitamin C; 19269
+elderflower_liqueur: Beverages; Alcoholic beverage, liqueur, coffee, 53 proof; 14414
+sugar_free_fat_free_instant_pudding_mix: Sweets; Puddings, banana, dry mix, instant, prepared with 2% milk; 19121
+low_calorie_catalina_salad_dressing: Fats and Oils; Salad dressing, russian dressing, low calorie; 04022
+KNUDSEN_Sour_Cream: Dairy and Egg Products; Cream, sour, reduced fat, cultured; 01055
+ready_-_to_-_use_baked_pizza_crust: Fast Foods; Pizza, cheese topping, regular crust, frozen, cooked; 21224
+vanilla_oil: Sweets; Puddings, vanilla, dry mix, regular, with added oil; 19710
+lemon_,_rind_of: Baked Products; Cookies, ladyfingers, with lemon juice and rind; 18175

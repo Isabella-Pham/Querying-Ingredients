@@ -110,12 +110,12 @@ def reprocessingNoResults():
     none.write('Below is a list of foods that still do not have results after referncing FoodOn' + '\n')
     with open ("noResults.txt", "r") as file:
         list = file.read().splitlines()
-    list = list[:40]
+    list = list[39:]
     for food in list:
+        print(food)
         searchTerm = getParent(food)
         data = get_api(food)
         freqs = getFrequencies(data)
-        print(food)
         if data == 'ERROR' or bool(freqs) == False:
             none.write(food + '\n')
             none.flush()

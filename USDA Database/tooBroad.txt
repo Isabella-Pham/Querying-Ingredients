@@ -1,9 +1,0 @@
-vegetables
-fruit
-fresh_fruit
-berries
-coating_mix
-grain
-sticks
-dipping_sauce
-fillets
