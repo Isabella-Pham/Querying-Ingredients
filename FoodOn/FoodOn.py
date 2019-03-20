@@ -23,6 +23,7 @@ def findParent(id): #given the foodOn ID of a query, determine its parent
 def getParent(query):
     data = getFoodOn(query)
     id = getID(data)
-    return findParent(id)
+    parent = findParent(id)
+    return parent
 
 print(getParent('liquid_smoke'))

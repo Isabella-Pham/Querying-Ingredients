@@ -114,7 +114,7 @@ def reprocessingNoResults():
     for food in list:
         print(food)
         searchTerm = getParent(food)
-        data = get_api(food)
+        data = get_api(searchTerm)
         freqs = getFrequencies(data)
         if data == 'ERROR' or bool(freqs) == False:
             none.write(food + '\n')
