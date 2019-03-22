@@ -129,5 +129,3 @@ def reprocessingNoResults():
         time.sleep(2)
     doc.close()
     none.close()
-
-reprocessingNoResults()
