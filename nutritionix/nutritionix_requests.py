@@ -3,6 +3,7 @@ import json
 import os
 import time
 
+'''
 def getFood():
     with open ("list.txt", "r") as f:
         l = f.read().splitlines()
@@ -18,6 +19,7 @@ data = '{ \"num_servings\": 1,\"query\": \"mango\",  \"aggregate\": \"string\", 
 json_data = json.loads(data)
 outfile=open('nutritionix.txt','w')
 l=getFood()
+
 
 # remember we are limited to 2*500 queries a day, Isabella you have an offset 1229
 for i in l[1229:]:
@@ -39,3 +41,17 @@ for i in l[1229:]:
 outfile.close()
 #response_json = json.dumps(parsed, indent=2, sort_keys=True)
 #print("\n\nResponse:\n\n"+response_json)
+'''
+
+def getMultipleResults():
+    with open ("nutritionix.txt", "r") as f:
+        l = f.read().splitlines()
+    outfile = open('multipleResults.txt', 'w')
+    for line in l:
+        numResults = line.split()[1]
+        if int(numResults) > 1:
+            outfile.write(line + "\n")
+            outfile.flush()
+    outfile.close()
+
+getMultipleResults()
