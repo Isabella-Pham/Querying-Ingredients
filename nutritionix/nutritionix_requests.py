@@ -51,6 +51,9 @@ def getMultipleResults():
         numResults = line.split()[1]
         if int(numResults) > 1:
             outfile.write(line + "\n")
+            #for i in line.split()[2]:
+            #    outfile.write(line.split()[2][i]["NDB_NO"] + " ")
+            #outfile.write("\n")
             outfile.flush()
     outfile.close()
 
