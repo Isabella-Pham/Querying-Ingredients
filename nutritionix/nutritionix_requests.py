@@ -51,10 +51,17 @@ def getMultipleResults():
         numResults = line.split()[1]
         if int(numResults) > 1:
             outfile.write(line + "\n")
-            #for i in line.split()[2]:
-            #    outfile.write(line.split()[2][i]["NDB_NO"] + " ")
-            #outfile.write("\n")
+            outfile.flush()
+    outfile.close()
+def getNoResults():
+    with open ("nutritionix.txt", "r") as f:
+        l = f.read().splitlines()
+    outfile = open('noResults.txt', 'w')
+    for line in l:
+        numResults = line.split()[1]
+        if int(numResults) == 0:
+            outfile.write(line.split()[0] + "\n")
             outfile.flush()
     outfile.close()
 
-getMultipleResults()
+getNoResults()
