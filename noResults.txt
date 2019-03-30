@@ -9,7 +9,7 @@ galangal: 45099321
 ketjap_manis: 45232090
 passata: 45018861
 shoyu: 16123
-Galliano:14057
+Galliano: 14057
 paraffin_wax: NOT FOOD
 citric_acid: 45108962
 paper: NOT FOOD
