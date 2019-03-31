@@ -17,7 +17,7 @@ headers = {'Content-Type': 'application/json',
 data = '{ \"num_servings\": 1,\"query\": \"mango\",  \"aggregate\": \"string\",  \"line_delimited\": false,  \"use_raw_foods\": true,  \"include_subrecipe\": false,  \"timezone\": \"US\/ Eastern\",  \"consumed_at\": null,  \"lat\": 0,  \"lng\": 0,  \"meal_type\": 0,  \"use_branded_foods\": true,  \"locale\": \"en_US\"}'
 
 json_data = json.loads(data)
-json_data["query"] = "pear"
+json_data["query"] = "parmesan"
 #headers['x-remote-user-id']=str(i%2)
 #print("Request:\n\n"+json.dumps(json_data, indent=2, sort_keys=True))
 response = requests.post(url, data=json.dumps(json_data), headers=headers)
